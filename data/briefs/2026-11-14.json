@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-14",
+  "edition": "Saturday 14 November 2026",
+  "updated": "6:20am NZDT",
+  "summary": [
+    "The Nvidia shake-up is still rattling markets. Its shares fell about 4% again on Friday as US 10-year bond yields hit 5.16%, their highest since October.",
+    "The NZX 50 slipped 0.6% on Friday but logged a third straight weekly gain, while the Kiwi dollar eased to about 55.5 US cents.",
+    "Election limbo continues until the 27 November final count. The current government stays on in a caretaker role while the special votes are counted."
+  ],
+  "markets": {
+    "indices": [
+      { "name": "NZX 50", "value": "14,173.68", "change_pct": -0.6, "note": "Friday close · up 1.3% for the week" },
+      { "name": "S&P 500", "value": "7,592", "change_pct": -0.35, "note": "Thursday US close · lower in Friday trading" },
+      { "name": "Nasdaq", "value": "25,366", "change_pct": -0.4, "note": "Thursday US close · lower in Friday trading" },
+      { "name": "Dow Jones", "value": "52,297", "change_pct": -0.36, "note": "Thursday US close · down 189 points" },
+      { "name": "ASX 200", "value": "9,082.2", "change_pct": -0.71, "note": "Friday close · still up for the week" },
+      { "name": "NZD/USD", "value": "0.5545", "change_pct": -0.22, "note": "5pm Friday Auckland · near an 18-month low" }
+    ],
+    "stories": [
+      {
+        "headline": "Nvidia slides again as US bond yields climb",
+        "summary": "Nvidia shares fell about 4% on Friday after CEO Jensen Huang's resignation, and chip peers AMD, Broadcom and Intel also dropped. The US 10-year Treasury yield reached 5.16% after wholesale inflation came in at 6.5% for the year, the highest since 2022.",
+        "why": "Higher US bond yields tend to pull money out of growth shares and push up borrowing costs worldwide, which affects KiwiSaver balances and NZ interest rates.",
+        "source": { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html" }
+      },
+      {
+        "headline": "NZX 50 notches a third straight weekly gain",
+        "summary": "The index fell 85.55 points on Friday to 14,173.68 but finished the week up 1.3%, with 41 stocks rising. KMD jumped 21% over the week, while Mainfreight, Turners and Gentrack each gained more than 5%.",
+        "why": "The local market has held up through election uncertainty and high fuel costs, a useful case study in how investors price political risk.",
+        "source": { "name": "The Bottom Line", "url": "https://www.thebottomline.co.nz/nzx-50-gains-for-third-week-as-nvidia-shake-up-hangs-over-market/" }
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Caretaker government stays on while specials are counted",
+      "summary": "On preliminary results the National–ACT–NZ First bloc holds 67 seats in a 131-seat House, one more than a majority, with the official count due 27 November. Under the caretaker convention the current government keeps running things until a new one is formed.",
+      "why": "Until the final count, big new policy decisions on tax, fuel or business rules are effectively on hold.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-13-november-2026" }
+    },
+    {
+      "headline": "Survey points to appetite for electoral reform",
+      "summary": "A Stuff survey published today finds growing interest in changing the electoral system after the close result and debate over overhang seats. It also asked voters about Christopher Luxon's softer stance on working with the Opportunity Party, which he had earlier appeared to rule out.",
+      "why": "Any review of MMP could change how future votes, including yours, translate into seats in Parliament.",
+      "source": { "name": "Stuff", "url": "https://www.stuff.co.nz/nz-news/361059099/voters-sour-mmp-and-luxons-u-turn-wake-election-controversy" }
+    }
+  ],
+  "world": [
+    {
+      "headline": "Oil jumps as Trump drops Vance from Iran talks",
+      "summary": "President Trump removed Vice President JD Vance from negotiations with Iran, saying the US no longer needs a deal, while shipping through the Strait of Hormuz remains disrupted. Brent crude rose 3.3% to about US$96 a barrel.",
+      "why": "Higher crude prices flow through to the pump in NZ within weeks, keeping your van's fuel bill high.",
+      "source": { "name": "10 Things Global News", "url": "https://www.10things.news/p/10-things-global-news-13th-november-797" }
+    },
+    {
+      "headline": "Europe pushes for a seat at Ukraine peace talks",
+      "summary": "After US envoys met Vladimir Putin in Moscow, Volodymyr Zelensky said European representatives will join the next round of talks, though the Kremlin has not confirmed. Separately, Ukrainian drone attacks on a Russian oil terminal near the Gulf of Finland triggered shelter warnings in the Baltic states.",
+      "why": "A credible path to peace would ease global energy prices, one of the main pressures on NZ inflation.",
+      "source": { "name": "10 Things Global News", "url": "https://www.10things.news/p/10-things-global-news-13th-november-797" }
+    }
+  ],
+  "economy": {
+    "stats": [
+      { "label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec" },
+      { "label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter" },
+      { "label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high" },
+      { "label": "Petrol 91", "value": "$3.64/L", "note": "National average, 11 Nov" }
+    ],
+    "stories": [
+      {
+        "headline": "Manufacturing still growing, but slowing",
+        "summary": "The BNZ-BusinessNZ manufacturing index eased to 54.9 in October, its 16th straight month of expansion. Firms cited fuel prices, the cost of living and election uncertainty, and the employment sub-index was the weakest at 51.9.",
+        "why": "It shows NZ businesses are still busy but cautious about hiring, a pattern that also shapes demand for trade services like yours.",
+        "source": { "name": "Xinhua", "url": "https://english.news.cn/20261113/62e7cb05bb034d1bb72e55809fe0ba54/c.html" }
+      },
+      {
+        "headline": "Kiwi dollar slips back towards its 18-month low",
+        "summary": "The NZD fell for a third straight day to around 55.5 US cents as the gap between US and NZ interest rates widens. The RBNZ's inflation expectations survey, due Tuesday 17 November, is the next big local test before the 9 December OCR decision.",
+        "why": "A weak Kiwi makes imported fuel, equipment and supplies dearer for your business.",
+        "source": { "name": "TMGM", "url": "https://www.tmgm.com/en/analysis/market-news/article/the-new-zealand-dollars-slump-runs-into-rbnz-inflation-expectations-202611122300" }
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Meta pauses its new ad terms due 20 November",
+      "summary": "Meta has delayed updated Commercial, Self-Serve Ad and Generative AI ad terms that were set to apply on 20 November, after regulator pushback in Norway, the UK and the EU. Existing terms stay in force and no new date has been set.",
+      "why": "If you run Facebook or Instagram ads for Coastal Clear Windows, there's nothing to action this week, but keep reviewing any AI-generated ad creative before it goes live.",
+      "source": { "name": "Relevant Audience", "url": "https://www.relevantaudience.com/meta/meta-pauses-commercial-terms-20-november-2026/" }
+    },
+    {
+      "headline": "What election ad data shows about targeting",
+      "summary": "Public Google and Meta ad libraries show most Google election spending went on YouTube, and Meta spend targeted Auckland audiences more than anywhere else, even per person. The data was visible almost in real time, months before official spending returns are due.",
+      "why": "Anyone can search Meta's and Google's ad libraries to see what local competitors are running, a free piece of competitor research for your business.",
+      "source": { "name": "The Spinoff", "url": "https://thespinoff.co.nz/politics/13-11-2026/everything-we-learned-from-a-deep-dive-into-digital-advertising-at-the-2026-election" }
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Today and Thursday are the cleanest days. Sunday to Tuesday bring light showers, and Wednesday looks properly wet, so avoid gutter jobs then.",
+    "days": [
+      { "day": "Sat", "high": 21, "low": 12, "rain": 5 },
+      { "day": "Sun", "high": 22, "low": 13, "rain": 40 },
+      { "day": "Mon", "high": 22, "low": 15, "rain": 50 },
+      { "day": "Tue", "high": 23, "low": 15, "rain": 40 },
+      { "day": "Wed", "high": 21, "low": 15, "rain": 90 },
+      { "day": "Thu", "high": 17, "low": 13, "rain": 30 }
+    ]
+  },
+  "watchlist": [
+    { "name": "Nvidia", "value": "Down ~4% Fri", "direction": "down", "note": "Earnings Tuesday; CEO search underway" },
+    { "name": "Mainfreight", "value": "Up 5.6% week", "direction": "up", "note": "Rally after half-year result" },
+    { "name": "NZD/USD", "value": "55.45c", "direction": "down", "note": "Third straight daily fall" },
+    { "name": "Petrol 91", "value": "$3.64/L", "direction": "flat", "note": "Brent up 3.3% may push it higher" }
+  ],
+  "term": {
+    "term": "Bond yield",
+    "definition": "The annual return an investor gets for lending money to a government or company by buying its bonds. When yields rise, borrowing gets more expensive across the economy and shares often look less attractive.",
+    "example": "The US 10-year Treasury yield hit 5.16% on Friday, one reason tech shares like Nvidia fell."
+  }
+}
