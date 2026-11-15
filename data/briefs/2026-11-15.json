@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-15",
+  "edition": "Sunday 15 November 2026",
+  "updated": "6:05pm NZDT",
+  "summary": [
+    "Wall Street finished its best week since August on a soft note. The S&P 500 slipped 0.4% and the Nasdaq 0.9% on Friday as chip stocks sold off, with Nvidia's results due Tuesday US time.",
+    "Trump, Xi and Putin will hold their first three-way meeting at the APEC summit in Shenzhen this week, where caretaker PM Christopher Luxon is also attending.",
+    "The Kiwi dollar slid to about 55.2 US cents, its weakest level since April 2025, as traders bet on another US rate hike."
+  ],
+  "markets": {
+    "indices": [
+      { "name": "NZX 50", "value": "14,173.68", "change_pct": -0.6, "note": "Friday close · up 1.3% for the week" },
+      { "name": "S&P 500", "value": "7,561.67", "change_pct": -0.4, "note": "Friday US close · up about 2.5% for the week" },
+      { "name": "Nasdaq", "value": "25,136.27", "change_pct": -0.91, "note": "Friday US close · up about 2.3% for the week" },
+      { "name": "Dow Jones", "value": "52,347.55", "change_pct": 0.1, "note": "Friday US close · up about 2.1% for the week" },
+      { "name": "ASX 200", "value": "9,082.25", "change_pct": -0.71, "note": "Friday close" },
+      { "name": "NZD/USD", "value": "0.5519", "change_pct": -0.43, "note": "Friday US session · weakest since April 2025" }
+    ],
+    "stories": [
+      {
+        "headline": "Chip stocks drag Wall Street lower, but the week still ends up",
+        "summary": "AMD fell 9% and Broadcom nearly 5% on Friday, while Nvidia closed lower again and lost about 13% over the week after Jensen Huang's exit. Even so, the S&P 500 and Nasdaq posted their first weekly gains in five weeks, and Nvidia's results land Tuesday with options pricing a swing of around 9%.",
+        "why": "Nvidia's result is the biggest single test for the AI trade that drives a big chunk of global share funds, including most KiwiSaver growth funds.",
+        "source": { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-tick-133734502.html" }
+      },
+      {
+        "headline": "Kiwi dollar hits its weakest level since April 2025",
+        "summary": "The NZD fell 0.43% on Friday to about 0.5519 US dollars, down roughly 1.2% over the past month. A firmer US dollar, driven by bets on a December Fed hike after hot US inflation, is doing most of the damage.",
+        "why": "A weaker Kiwi pushes up the cost of anything imported, from fuel to cleaning gear and ladders for your business.",
+        "source": { "name": "Trading Economics", "url": "https://tradingeconomics.com/new-zealand/currency" }
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Nothing stops coalition talks starting before the final count",
+      "summary": "Constitutional lawyer Graeme Edgeler says parties can begin negotiating now, though the result is close enough that they may wait for the official count on Friday 27 November. On preliminary results National, ACT and NZ First hold 67 of 131 seats against a majority of 66, with about 399,000 special votes still to be counted.",
+      "why": "A one-seat margin means the special votes could still change who governs and which policies on tax and business follow.",
+      "source": { "name": "Newswire", "url": "https://newswire.co.nz/2026/11/new-zealand-election-official-count-special-votes-coalition-talks/" }
+    },
+    {
+      "headline": "Luxon heads to APEC as caretaker PM",
+      "summary": "Christopher Luxon and Trade Minister Todd McClay will attend the APEC leaders' meeting in Shenzhen on 18 and 19 November, under the caretaker convention and in consultation with the Opposition. Foreign Minister Winston Peters will attend the East Asia Summit in Manila on 16 and 17 November.",
+      "why": "APEC economies buy about 75% of NZ's exports, and China, this year's host, is our largest trading partner.",
+      "source": { "name": "1News", "url": "https://www.1news.co.nz/2026/11/13/luxon-to-attend-apec-under-caretaker-government-convention/" }
+    }
+  ],
+  "world": [
+    {
+      "headline": "Trump, Xi and Putin to meet together in Shenzhen",
+      "summary": "The three leaders will hold their first-ever trilateral meeting on the sidelines of APEC, with the White House saying nuclear arms reduction will be the focus after the New START treaty lapsed in February. A US official said no agreement is expected, and China has said joining three-way nuclear talks is unrealistic for now.",
+      "why": "Any thaw that touches the Iran war or the closed Strait of Hormuz could ease the oil prices behind NZ's high petrol costs.",
+      "source": { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect" }
+    },
+    {
+      "headline": "Microsoft outage disrupts services across Asia-Pacific",
+      "summary": "A global Microsoft outage knocked out government and business services in the region, taking down Japan's government email and forcing New Zealand to suspend visa processing. Microsoft blamed a network capacity upgrade rather than a cyberattack.",
+      "why": "If your bookings, invoicing or email run on Microsoft 365, it's a reminder to keep a backup way to reach customers.",
+      "source": { "name": "Anadolu Agency", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855" }
+    }
+  ],
+  "economy": {
+    "stats": [
+      { "label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec" },
+      { "label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter" },
+      { "label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high" },
+      { "label": "Petrol 91", "value": "$3.36/L", "note": "Gaspy national average, 14 Nov" }
+    ],
+    "stories": [
+      {
+        "headline": "David Jones to close its only NZ store in Newmarket",
+        "summary": "Receivers from FTI Consulting say the Newmarket store is one of 19 David Jones stores closing, with the rest in Australia, and trading is expected to stop by the end of the year. The collapse follows a rental dispute and falling profits, and the receivers are looking for a buyer.",
+        "why": "Big-name retail closures in Auckland are a sign of how tight household spending is, which also shapes demand for home services.",
+        "source": { "name": "1News", "url": "https://www.1news.co.nz/2026/11/11/david-jones-store-in-newmarket-among-19-to-close-receivers-announce/" }
+      },
+      {
+        "headline": "Markets still expect an OCR rise on 9 December",
+        "summary": "The Reserve Bank held the OCR at 2.75% in October on a 4-3 vote, surprising economists who expected a hike. With inflation at 3.7% and forecast by the RBNZ to reach 4.4% in the December quarter, markets were pricing about a 75% chance of a December rise.",
+        "why": "A hike would make vehicle and business loans dearer but lift the interest on any savings you hold.",
+        "source": { "name": "The Spinoff", "url": "https://thespinoff.co.nz/politics/29-10-2026/reserve-banks-surprise-ocr-hold-economists-flabbergasted-borrowers-relieved-savers-stuck" }
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Google's November core update is rolling out",
+      "summary": "Google began rolling out its November 2026 core update on 10 November, and it may take up to two weeks to finish, putting the likely end around 24 November. Google advises waiting at least a week after completion before comparing Search Console data.",
+      "why": "If your website's Google ranking or enquiries dip this fortnight, hold off on big changes until the update settles.",
+      "source": { "name": "PPC Land", "url": "https://ppc.land/googles-core-update-shifts-rankings-for-up-to-2-weeks-before-black-friday/" }
+    },
+    {
+      "headline": "Google is adding 'Book online' buttons to local business profiles",
+      "summary": "Some home service businesses are seeing booking buttons appear on their Google Business Profiles, sometimes just from having a contact page in the booking link field. Several of the links lead to error pages, and Google hasn't explained the change.",
+      "why": "Check Coastal Clear Windows' Google profile today: a working booking button can win jobs, but a broken one loses them.",
+      "source": { "name": "Search Engine Roundtable", "url": "https://www.seroundtable.com/google-business-profiles-adding-booking-links-42477.html" }
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Monday and Thursday look best for outdoor work, with Friday also workable. Today and Tuesday bring drizzle, and Wednesday is the wettest day, so skip gutter jobs then.",
+    "days": [
+      { "day": "Sun", "high": 21, "low": 14, "rain": 49 },
+      { "day": "Mon", "high": 22, "low": 16, "rain": 39 },
+      { "day": "Tue", "high": 22, "low": 16, "rain": 49 },
+      { "day": "Wed", "high": 18, "low": 14, "rain": 82 },
+      { "day": "Thu", "high": 20, "low": 13, "rain": 19 },
+      { "day": "Fri", "high": 19, "low": 14, "rain": 25 }
+    ]
+  },
+  "watchlist": [
+    { "name": "Nvidia", "value": "Down ~13% week", "direction": "down", "note": "Q3 results Tuesday US time; options imply a ~9% swing" },
+    { "name": "Mainfreight", "value": "Up 5.6% week", "direction": "up", "note": "Rally after half-year result; NZX reopens Monday" },
+    { "name": "NZD/USD", "value": "55.19c", "direction": "down", "note": "Weakest since April 2025" },
+    { "name": "Petrol 91", "value": "$3.36/L", "direction": "flat", "note": "Gaspy average, 14 Nov; a different measure from last week's $3.64" }
+  ],
+  "term": {
+    "term": "Implied volatility",
+    "definition": "How big a price swing the options market is betting on, worked out from what traders pay for options. Higher implied volatility means investors expect a bigger move, up or down.",
+    "example": "Options pricing implies Nvidia could move about 9% either way after its results on Tuesday."
+  }
+}
