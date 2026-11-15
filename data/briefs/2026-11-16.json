@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-16",
+  "edition": "Monday 16 November 2026",
+  "updated": "6:25am NZDT",
+  "summary": [
+    "A big week for tech: Nvidia reports results this week after a sixth straight weekly fall, and Anthropic is set to price its IPO on 18 November and start trading on Nasdaq a day later.",
+    "Iran says several oil tankers caught fire after hitting naval mines in the Strait of Hormuz over the weekend, keeping pressure on oil prices.",
+    "Tuesday is a key day for NZ rates: the Reserve Bank releases its Financial Stability Report and its inflation expectations survey ahead of the 9 December OCR call."
+  ],
+  "markets": {
+    "indices": [
+      { "name": "NZX 50", "value": "14,173.68", "change_pct": -0.6, "note": "Friday close · up 1.3% for the week" },
+      { "name": "S&P 500", "value": "7,561.67", "change_pct": -0.4, "note": "Friday US close · up 2.51% for the week" },
+      { "name": "Nasdaq", "value": "25,136.27", "change_pct": -0.91, "note": "Friday US close · up 2.27% for the week" },
+      { "name": "Dow Jones", "value": "52,347.55", "change_pct": 0.1, "note": "Friday US close · only major index to rise" },
+      { "name": "ASX 200", "value": "9,082", "change_pct": -0.7, "note": "Friday close · third straight weekly gain" },
+      { "name": "NZD/USD", "value": "0.5525", "change_pct": -0.38, "note": "Friday US session · lowest since April 2025" }
+    ],
+    "stories": [
+      {
+        "headline": "Anthropic's IPO lands this week",
+        "summary": "The AI company is set to price its shares on 18 November at US$70 to US$78 each, with trading on Nasdaq under the ticker ANT from 19 November. A Xapo Bank executive told CoinDesk the order book was about six times larger than the shares on offer.",
+        "why": "It's one of the biggest tech listings in years and a live case study for your finance papers on how IPOs are priced and how demand shapes the first-day result.",
+        "source": { "name": "CappNotes", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026" }
+      },
+      {
+        "headline": "Nvidia's losing streak stretches to six weeks",
+        "summary": "Nvidia fell another 2% on Friday, its sixth weekly decline in a row and the longest run since 2012, as Truist downgraded it to Hold and Morgan Stanley cut its price target to US$267. Chip stocks broadly sold off, with AMD down almost 9% and the Philadelphia Semiconductor Index down 3.4%.",
+        "why": "Nvidia's results this week will set the tone for AI-heavy share funds, which make up a big slice of most KiwiSaver growth funds.",
+        "source": { "name": "CappNotes", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-13-2026" }
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Ministerial jobs and the finance portfolio in focus ahead of talks",
+      "summary": "A former ACT chief of staff expects ACT and NZ First to seek one or two extra ministerial or under-secretary roles in any renewed coalition, while commentators debate who becomes finance minister after several senior National MPs left Parliament. The official result, including about 399,000 special votes, is due on 27 November.",
+      "why": "Whoever holds the finance portfolio will shape tax, spending and business settings over the next three years.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-15-november-2026" }
+    },
+    {
+      "headline": "Constitutional experts call for an inquiry into MMP",
+      "summary": "A group of constitutional experts is drafting an open letter, expected this week, asking for a select committee inquiry into keeping Parliament proportional after this election's overhang seats. Ideas being discussed range from a larger Parliament of 180 to 200 MPs to fewer, bigger electorates.",
+      "why": "Any change to MMP would alter how your party vote turns into seats at future elections.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-15-november-2026" }
+    }
+  ],
+  "world": [
+    {
+      "headline": "Iran says tankers hit mines in the Strait of Hormuz",
+      "summary": "Iran's navy and Revolutionary Guards said three tankers caught fire after striking naval mines on Saturday, claiming the ships had used a banned route with their tracking switched off. The claims could not be independently verified, and Iran warned other vessels entering the zone could meet the same fate.",
+      "why": "The Strait carries a large share of the world's oil, so more disruption there keeps NZ fuel prices and your running costs high.",
+      "source": { "name": "Investing.com (Reuters)", "url": "https://www.investing.com/news/commodities-news/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz-5027556" }
+    },
+    {
+      "headline": "Kremlin confirms Trump–Xi–Putin meeting for 19 November",
+      "summary": "Kremlin spokesman Dmitry Peskov said the three leaders will meet in Shenzhen on the sidelines of the APEC summit, which runs 18 to 19 November. Separately, Italy's privacy watchdog fined Meta €805 million over access to Android users' photos and data without proper consent.",
+      "why": "APEC economies buy most of NZ's exports, and any easing of tensions between the big three could steady trade and oil markets.",
+      "source": { "name": "Anadolu Agency", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489" }
+    }
+  ],
+  "economy": {
+    "stats": [
+      { "label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec" },
+      { "label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter" },
+      { "label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high" },
+      { "label": "Petrol 91", "value": "$3.36/L", "note": "Gaspy national average, 14 Nov" }
+    ],
+    "stories": [
+      {
+        "headline": "Petrol has eased about 20 cents in a month",
+        "summary": "The national average for 91 is about $3.36 a litre, based on Gaspy data from more than 1,500 stations, down 20.2 cents over the past four weeks. That follows record highs at the pump in October.",
+        "why": "Every 20 cents a litre off adds up across a week of driving between jobs, so it's worth tracking your fuel spend against quotes.",
+        "source": { "name": "NZ Fuel Watch", "url": "https://www.fuelwatch.nz/" }
+      },
+      {
+        "headline": "Reserve Bank's big data day is Tuesday",
+        "summary": "The RBNZ publishes its Financial Stability Report on Tuesday morning, followed in the afternoon by its inflation expectations survey, which last read 2.34% for two years ahead. Both feed into the 9 December OCR decision after October's surprise hold at 2.75%.",
+        "why": "A higher expectations reading would strengthen the case for a rate rise, which would make business and vehicle loans dearer.",
+        "source": { "name": "TMGM", "url": "https://www.tmgm.com/en/analysis/market-news/article/the-new-zealand-dollars-slump-runs-into-rbnz-inflation-expectations-202611122300" }
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Google tests a stripped-back local pack in AI Overviews",
+      "summary": "Google is testing a mobile version of the AI Overview local pack that drops the call, website and directions buttons, plus reviews and photos. When it appears, the usual map pack disappears.",
+      "why": "If fewer people can tap 'call' straight from Google, make sure your website and Business Profile make booking Coastal Clear Windows dead simple.",
+      "source": { "name": "Search Engine Roundtable", "url": "https://www.seroundtable.com/google-ai-overview-local-pack-action-buttons-42483.html" }
+    },
+    {
+      "headline": "ChatGPT launches a Business Hub for brands",
+      "summary": "OpenAI's new Business Hub, in beta, lets businesses claim a profile in ChatGPT, add hours and descriptions, and see how often they're mentioned and clicked. For now local listings can only be claimed in the US, and support for service-area businesses is described as coming soon.",
+      "why": "It's not open to NZ service businesses yet, but it signals AI chat search is becoming a new 'Google Business Profile' worth preparing for.",
+      "source": { "name": "BrightLocal", "url": "https://www.brightlocal.com/learn/chatgpt-business-hub/" }
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Today is the pick for outdoor work: dry and warm, though high UV. Thursday to Saturday also look good. Wednesday is wet and windy, so avoid ladders and gutter jobs then.",
+    "days": [
+      { "day": "Mon", "high": 23, "low": 16, "rain": 0 },
+      { "day": "Tue", "high": 23, "low": 15, "rain": 20 },
+      { "day": "Wed", "high": 17, "low": 13, "rain": 100 },
+      { "day": "Thu", "high": 18, "low": 13, "rain": 0 },
+      { "day": "Fri", "high": 19, "low": 13, "rain": 10 },
+      { "day": "Sat", "high": 20, "low": 13, "rain": 10 }
+    ]
+  },
+  "watchlist": [
+    { "name": "Nvidia", "value": "Down 2% Fri", "direction": "down", "note": "Sixth straight weekly fall; results due this week" },
+    { "name": "Mainfreight", "value": "Up 5.6% week", "direction": "up", "note": "Strong half-year result; NZX reopens today" },
+    { "name": "NZD/USD", "value": "55.25c", "direction": "down", "note": "Lowest since April 2025; RBNZ data Tuesday" },
+    { "name": "Petrol 91", "value": "$3.36/L", "direction": "down", "note": "Gaspy average, 14 Nov; down 20c over four weeks" }
+  ],
+  "term": {
+    "term": "Oversubscribed",
+    "definition": "When investors ask to buy more shares in a new listing than the company is selling. Strong oversubscription often lets the company price at the top of its range, or raise it.",
+    "example": "Anthropic's IPO reportedly drew orders for about six times the shares available ahead of pricing on 18 November."
+  }
+}
