@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-17",
+  "edition": "Tuesday 17 November 2026",
+  "updated": "6:20am NZDT",
+  "summary": [
+    "The NZX 50 closed at a record high of about 14,304 on Monday, up 0.9%, led by a 12% jump in Serko, while Wall Street fell as AI and chip stocks sold off ahead of Nvidia's results.",
+    "Nvidia reports after Tuesday's US close (Wednesday morning NZ time), and Anthropic's Nasdaq debut follows later this week at an indicated US$70 to US$78 a share.",
+    "ACT's David Seymour wants a single three-party coalition agreement this time, while Christopher Luxon says formal talks wait for the 27 November official count."
+  ],
+  "markets": {
+    "indices": [
+      { "name": "NZX 50", "value": "14,304", "change_pct": 0.92, "note": "Monday close · record high" },
+      { "name": "S&P 500", "value": "7,465.51", "change_pct": -1.27, "note": "Monday US close (Trading Economics) · tech led losses" },
+      { "name": "Nasdaq", "value": null, "change_pct": -2.0, "note": "Monday US session · down about 2%; final level not confirmed" },
+      { "name": "Dow Jones", "value": null, "change_pct": null, "note": "Monday US session · lower; final close not confirmed" },
+      { "name": "ASX 200", "value": "9,044.70", "change_pct": -0.41, "note": "Monday close · miners dragged, tech rose" },
+      { "name": "NZD/USD", "value": "0.5520", "change_pct": -0.09, "note": "Monday 16 Nov · fresh 19-month low" }
+    ],
+    "stories": [
+      {
+        "headline": "NZX 50 closes at a record high",
+        "summary": "The index rose about 130 points, or 0.9%, to around 14,304 on Monday, its highest close on record and up almost 4.8% over the past month. Serko led with a 12.1% jump after reporting a 17% rise in first-half income, and Mainfreight added 2.3% to its highest level since January 2025.",
+        "why": "The local market keeps climbing despite election uncertainty, which is good news for NZ-heavy KiwiSaver funds and a live lesson in how results drive share prices.",
+        "source": { "name": "Trading Economics", "url": "https://tradingeconomics.com/new-zealand/stock-market" }
+      },
+      {
+        "headline": "Chip stocks drag Wall Street down before Nvidia's results",
+        "summary": "US shares fell on Monday as Intel, Micron and Broadcom each dropped more than 4% and the Philadelphia semiconductor index slid 4%, while Nvidia lost about 1.6% ahead of its first results since Jensen Huang's exit. Markets are also fully pricing a Fed rate hike in December, and the US announced tighter rules on China's access to advanced AI chips.",
+        "why": "Nvidia's numbers on Wednesday morning NZ time could swing global share funds, including most KiwiSaver growth options.",
+        "source": { "name": "MarketScreener (Reuters)", "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom-ce785eded080f124" }
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Seymour proposes one joint coalition agreement",
+      "summary": "ACT leader David Seymour wants a single agreement covering National, ACT and NZ First, replacing last term's two separate deals. Christopher Luxon, leading a caretaker government, says formal talks won't start until the official result on Friday 27 November, with about 399,000 special votes still being counted.",
+      "why": "The shape of the next coalition deal decides which tax, business and spending policies get priority over the next three years.",
+      "source": { "name": "The Rio Times", "url": "https://www.riotimesonline.com/seymour-proposes-single-coalition-deal-new-zealand" }
+    },
+    {
+      "headline": "Modelling points to a thinner majority after specials",
+      "summary": "The Post's Henry Cooke ran 10,000 simulations based on past special-vote patterns, and the most common outcome (38%) was a one-seat majority for the current coalition. The present two-seat margin held in only 8% of runs.",
+      "why": "A thinner majority would make it harder to pass contested laws, which matters for any rule changes affecting small businesses.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-16-november-2026" }
+    }
+  ],
+  "world": [
+    {
+      "headline": "Iran strikes Bahrain again as Gulf tensions rise",
+      "summary": "Iran launched a drone attack on Bahrain on Sunday, its second in three days, ending a lull of about two months while talks with Washington remain stalled. Iran's Revolutionary Guards also said two more tankers hit mines in the southern Strait of Hormuz, with one sinking, and a third US aircraft carrier is reportedly heading to the region.",
+      "why": "More trouble around Hormuz keeps upward pressure on oil, which feeds straight into what you pay for fuel between jobs.",
+      "source": { "name": "Anadolu Agency", "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094" }
+    },
+    {
+      "headline": "US tightens AI chip rules as Trump heads to China",
+      "summary": "The US announced interim rules tightening China's access to advanced AI chips just as President Trump began a trip to China ahead of the APEC summit in Shenzhen. The Commerce Department also moved to close loopholes around remote access to American computing power.",
+      "why": "US–China friction affects global markets and demand from China, NZ's biggest trading partner.",
+      "source": { "name": "MarketScreener (Reuters)", "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom-ce785eded080f124" }
+    }
+  ],
+  "economy": {
+    "stats": [
+      { "label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec" },
+      { "label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter" },
+      { "label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high" },
+      { "label": "Petrol 91", "value": "$3.33/L", "note": "Gaspy national average, 15 Nov" }
+    ],
+    "stories": [
+      {
+        "headline": "RBNZ inflation expectations survey lands today",
+        "summary": "The Reserve Bank's survey of inflation expectations is due on Tuesday 17 November, one of the last big data points before the 9 December OCR decision. Inflation eased to 3.7% in September but is still above the 1 to 3% target, and the RBNZ expects it could reach 4.4% by year-end.",
+        "why": "A higher reading would firm up the case for a rate hike, making vehicle and business loans dearer but lifting savings rates.",
+        "source": { "name": "IC Markets", "url": "https://www.icmarkets-vno.com/blog/asia-fundamental-forecast-16-november-2026-ic/" }
+      },
+      {
+        "headline": "Petrol keeps edging down",
+        "summary": "The national average for 91 was about $3.33 a litre on 15 November, according to Gaspy data from more than 1,500 stations. That is 12.2 cents lower than four weeks earlier.",
+        "why": "Cheaper fuel helps your margins, but with fresh Gulf tensions it's worth filling up while prices are lower.",
+        "source": { "name": "NZ Fuel Watch", "url": "https://www.fuelwatch.nz/" }
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Meow Mix turns famous cat memes into a campaign",
+      "summary": "Meow Mix launched 'Behind the Memeow' on 16 November, reimagining the backstories of Table Cat, Keyboard Cat and Huh Cat with new lyrics for its jingle. The push runs through February across Meta, TikTok, Pinterest, Snapchat and Reddit, plus influencers.",
+      "why": "Riding culture people already share is a cheap way to get noticed; a funny before-and-after window clip can do the same for Coastal Clear Windows on social.",
+      "source": { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/media-advertising/articles/meow-mix-reimagines-iconic-cat-150800809.html" }
+    },
+    {
+      "headline": "CommBank lifts its spend with local publishers by 40%",
+      "summary": "Commonwealth Bank will raise its advertising with Australian media by 40% across FY27 and FY28, funded by moving part of its existing marketing budget, with a focus on smaller independent publishers. It says its own trials showed strong returns from local media partnerships.",
+      "why": "Big brands are betting on local, trusted media, a reminder that community pages and suburb newsletters can be good value for a local service business.",
+      "source": { "name": "B&T", "url": "https://www.bandt.com.au/commbank-commits-to-a-40-ad-spend-lift-to-aussie-publishers/" }
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Get outdoor jobs done early today before light rain arrives this evening. Wednesday brings heavy rain, so skip ladders and gutters. Friday to Sunday look best, with Saturday the pick.",
+    "days": [
+      { "day": "Tue", "high": 23, "low": 16, "rain": 90 },
+      { "day": "Wed", "high": 18, "low": 13, "rain": 100 },
+      { "day": "Thu", "high": 18, "low": 13, "rain": 60 },
+      { "day": "Fri", "high": 19, "low": 12, "rain": 30 },
+      { "day": "Sat", "high": 19, "low": 11, "rain": 20 },
+      { "day": "Sun", "high": 20, "low": 11, "rain": 20 }
+    ]
+  },
+  "watchlist": [
+    { "name": "Nvidia", "value": "Down ~1.6% Mon", "direction": "down", "note": "Results after Tuesday's US close (Wed morning NZT)" },
+    { "name": "Mainfreight", "value": "Up 2.3% Mon", "direction": "up", "note": "About $72.90, highest since January 2025" },
+    { "name": "NZD/USD", "value": "55.20c", "direction": "down", "note": "Fresh 19-month low; RBNZ survey today" },
+    { "name": "Petrol 91", "value": "$3.33/L", "direction": "down", "note": "Gaspy average, 15 Nov; down 12.2c over four weeks" }
+  ],
+  "term": {
+    "term": "Priced in",
+    "definition": "When investors have already bet on an expected event, so it is reflected in today's prices before it happens. If the event goes as expected, markets often barely move; a surprise causes the big swing.",
+    "example": "Traders are fully pricing in a US Fed rate hike of at least 0.25% in December, so a hike alone may not shock markets but a pause would."
+  }
+}
