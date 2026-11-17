@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-18",
+  "edition": "Wednesday 18 November 2026",
+  "updated": "6:25am NZDT",
+  "summary": [
+    "Nvidia reports its first results without Jensen Huang after the US close, around 10am NZ time today, with the stock down about 26% in a month and analysts expecting roughly US$108.7 billion in revenue.",
+    "The tech sell-off spread to Australia: the ASX 200 fell 1.8% on Tuesday to its lowest close since late October, hit by miners, banks and RBA minutes showing a split vote to hike.",
+    "The Kiwi dollar slipped below 55 US cents, its weakest since March 2020, even as the RBNZ survey showed one-year inflation expectations jumping to 2.92%."
+  ],
+  "markets": {
+    "indices": [
+      { "name": "NZX 50", "value": null, "change_pct": null, "note": "Tuesday close not confirmed · down about 0.5% in morning trade" },
+      { "name": "S&P 500", "value": "7,419.53", "change_pct": -1.88, "note": "Monday US close · Tuesday session still trading" },
+      { "name": "Nasdaq", "value": "24,509.76", "change_pct": -2.49, "note": "Monday US close · tech-led sell-off" },
+      { "name": "Dow Jones", "value": "51,610.31", "change_pct": -1.41, "note": "Monday US close" },
+      { "name": "ASX 200", "value": "8,883.2", "change_pct": -1.79, "note": "Tuesday close · lowest since late October" },
+      { "name": "NZD/USD", "value": "0.5490", "change_pct": null, "note": "Tuesday 17 Nov · below 55c, lowest since March 2020" }
+    ],
+    "stories": [
+      {
+        "headline": "Nvidia's big test lands this morning",
+        "summary": "Interim CEO Colette Kress reports Nvidia's results after Tuesday's US close, around 10am NZ time, with analysts expecting about US$108.7 billion in revenue, just above the company's own guidance. The stock has fallen about 26% in a month, and US shares slid again on Tuesday after Monday's drop of 1.9% for the S&P 500 and 2.5% for the Nasdaq.",
+        "why": "A miss or a beat will ripple through global share funds, including most KiwiSaver growth options, by the time you check your balance tonight.",
+        "source": { "name": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/11/17/stock-market-today-nvidias-26-plunge-puts-wall-street-on-edge-ahead-of-earnings-tonight/" }
+      },
+      {
+        "headline": "ASX suffers its steepest fall in six weeks",
+        "summary": "The ASX 200 dropped 161.5 points, or 1.79%, to 8,883.2 on Tuesday as materials fell almost 4%, with BHP down nearly 5% and Fortescue down 5.6%. Minutes from the RBA's early-November meeting showed a 6-3 split vote to lift its cash rate to 4.85%.",
+        "why": "Australia is NZ's closest market and a hawkish RBA shows inflation is still forcing central banks across the region to keep rates high.",
+        "source": { "name": "ShareTrader", "url": "https://sharetrader.com.au/news/2026-11-17-asx-200-falls-161-points-as-rba-minutes-reveal-split-vote-and-us-tech-slides" }
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Parties set out positions before coalition talks",
+      "summary": "The Opportunity Party has published five bottom lines, including capping political donations, regulating lobbying and giving the Commerce Commission stronger powers. ACT's David Seymour has rejected a Foodstuffs break-up favoured by National and NZ First, while Winston Peters says not raising the retirement age is a 'top line' for NZ First.",
+      "why": "These early markers hint at which policies on supermarkets, competition and super could survive negotiations once the official count lands on 27 November.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-17-november-2026" }
+    },
+    {
+      "headline": "Online ad spending was higher in the closest seats",
+      "summary": "Analysis by The Post found candidates in the 21 electorates decided by fewer than 3,000 votes averaged about $16,100 on local online ads, against $8,700 elsewhere. The reporter concluded the extra spending did not decide those seats, and no breach of the $36,000 cap has been shown.",
+      "why": "It's a real-world look at how much online advertising moves results, a useful comparison for your marketing papers and your own ad budget.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-17-november-2026" }
+    }
+  ],
+  "world": [
+    {
+      "headline": "US strikes Iran's Qeshm Island after Bahrain drone attack",
+      "summary": "Iranian officials said the US carried out several attacks on Qeshm Island in the Strait of Hormuz on Tuesday evening, hours after Iran's Revolutionary Guards said they had targeted a US radar at a Bahrain air base. Iran also said three oil tankers hit naval mines in the strait, and a third US aircraft carrier has arrived in the region.",
+      "why": "Escalation around Hormuz, which normally carries about a fifth of the world's oil, could reverse the recent fall in NZ petrol prices.",
+      "source": { "name": "Arab News (Reuters)", "url": "https://www.arabnews.com/middle-east/us-attacks-irans-qeshm-island-in-strait-of-hormuz-official-3012499" }
+    },
+    {
+      "headline": "Xi and Trump set for third meeting at APEC in Shenzhen",
+      "summary": "Leaders from about 21 economies are gathering in Shenzhen for APEC this week, where Xi Jinping and Donald Trump are expected to meet on the sidelines. Tech rivalry, export controls and the trade dispute are expected to dominate, with analysts seeing little chance of a breakthrough on Taiwan.",
+      "why": "China is NZ's biggest trading partner, so any shift in US–China trade tension affects export demand and the Kiwi dollar.",
+      "source": { "name": "Business Standard", "url": "https://www.business-standard.com/amp/world-news/taiwan-may-take-backseat-when-xi-trump-meet-for-third-time-at-apec-summit-126111700186_1.html" }
+    }
+  ],
+  "economy": {
+    "stats": [
+      { "label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec" },
+      { "label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter" },
+      { "label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high" },
+      { "label": "Petrol 91", "value": "$3.32/L", "note": "Gaspy national average, 16 Nov" }
+    ],
+    "stories": [
+      {
+        "headline": "Short-term inflation expectations jump",
+        "summary": "The RBNZ's quarterly survey showed businesses expect inflation of 2.92% over the next year, up from 2.60%, while the two-year measure edged up to 2.36%. Longer-term expectations eased, with the five-year reading falling to 2.17%, its lowest in seven quarters.",
+        "why": "Rising near-term expectations add to the case for an OCR hike on 9 December, which would lift loan costs for vehicles and gear.",
+        "source": { "name": "Trading Economics", "url": "https://tradingeconomics.com/new-zealand/inflation-expectations/news/601736" }
+      },
+      {
+        "headline": "Services sector grows at its fastest pace in 3.5 years",
+        "summary": "The BNZ-BusinessNZ Performance of Services Index has now shown growth for five straight months, the quickest expansion in three and a half years, and BNZ forecasts the economy growing about 2% this year. Economist Cameron Bagrie called it good but not great, noting the housing market has yet to pick up.",
+        "why": "A recovering services sector is a good sign for demand for home services like Coastal Clear Windows heading into summer.",
+        "source": { "name": "NZCity", "url": "https://home.nzcity.co.nz/news/article.aspx?id=458187" }
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Google Business Profiles can now link Facebook Messenger",
+      "summary": "Businesses can now add a Facebook Messenger account under the chat feature when editing their Google Business Profile. Google had earlier added Messenger to some profiles automatically before opening up the manual option.",
+      "why": "Letting customers message Coastal Clear Windows straight from Google search is a quick win for capturing quote requests on the go.",
+      "source": { "name": "Search Engine Roundtable", "url": "https://www.seroundtable.com/google-business-profiles-facebook-messenger-42549.html" }
+    },
+    {
+      "headline": "Burger King asks customers which restaurants to fix",
+      "summary": "Burger King's 'Rebuild My BK' campaign invites diners to nominate restaurants that need a remodel through a microsite, rewarding loyalty members with bonus points. It builds on an earlier feedback push that drew 120,000 calls, as the chain posts its sixth straight quarter of US sales growth.",
+      "why": "Asking customers for feedback and rewarding them for it builds trust; a quick post-job survey with a small discount could do the same for your business.",
+      "source": { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/media-advertising/articles/burger-king-feedback-campaign-takes-140000044.html" }
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Today is the washout, with heavy rain, so skip ladders and gutters. Thursday brings showers. Friday to Monday look mostly dry on Yr, though AccuWeather still flags a chance of showers, so Friday and Saturday are the best bets for outdoor jobs.",
+    "days": [
+      { "day": "Wed", "high": 18, "low": 14, "rain": 90 },
+      { "day": "Thu", "high": 19, "low": 13, "rain": 63 },
+      { "day": "Fri", "high": 20, "low": 12, "rain": 60 },
+      { "day": "Sat", "high": 21, "low": 12, "rain": 55 },
+      { "day": "Sun", "high": 21, "low": 14, "rain": 63 },
+      { "day": "Mon", "high": 22, "low": 14, "rain": 55 }
+    ]
+  },
+  "watchlist": [
+    { "name": "Nvidia", "value": "Down ~26% month", "direction": "down", "note": "Results around 10am NZT today; ~US$108.7b revenue expected" },
+    { "name": "Mainfreight", "value": "Up ~1.3% Tue", "direction": "up", "note": "Indicative Tuesday move (Trading Economics)" },
+    { "name": "NZD/USD", "value": "54.9c", "direction": "down", "note": "Below 55c, lowest since March 2020" },
+    { "name": "Petrol 91", "value": "$3.32/L", "direction": "down", "note": "Gaspy average, 16 Nov; down 18.6c over 28 days" }
+  ],
+  "term": {
+    "term": "Anchored inflation expectations",
+    "definition": "When people and businesses keep expecting inflation to settle near the central bank's target over the long run, even if prices are jumping right now. Anchored expectations make it easier for a central bank to bring inflation down without big rate hikes.",
+    "example": "The RBNZ survey showed one-year expectations jumping to 2.92%, but the five-year measure fell to 2.17%, a sign long-term expectations are still anchored near the 2% midpoint."
+  }
+}
