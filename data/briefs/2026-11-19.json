@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-19",
+  "edition": "Thursday 19 November 2026",
+  "updated": "6:40am NZDT",
+  "summary": [
+    "Nvidia smashed expectations with US$115.8 billion in quarterly revenue and guided to about US$130 billion next quarter, but the relief rally faded and US shares were lower again midway through Wednesday's session.",
+    "Iran hit Kuwait and Bahrain after a US strike on Qeshm Island, while Trump, Xi and Putin meet in Shenzhen today on the last day of APEC.",
+    "Specials modelling now points to the coalition falling one seat short with Opportunity holding the balance, as petrol keeps easing to about $3.31 a litre."
+  ],
+  "markets": {
+    "indices": [
+      { "name": "NZX 50", "value": "≈14,265", "change_pct": -0.3, "note": "Wednesday close · down 42.67 points after Tuesday's record; level approximate" },
+      { "name": "S&P 500", "value": "7,340.77", "change_pct": -1.03, "note": "Tuesday US close · Wednesday session still trading, down ~0.6% midday" },
+      { "name": "Nasdaq", "value": "24,328.38", "change_pct": -0.74, "note": "Tuesday US close · Wednesday session still trading" },
+      { "name": "Dow Jones", "value": "50,761.92", "change_pct": -1.64, "note": "Tuesday US close · down ~1.2% midday Wednesday" },
+      { "name": "ASX 200", "value": "8,821.80", "change_pct": -0.69, "note": "Wednesday close · fifth straight fall" },
+      { "name": "NZD/USD", "value": "0.5488", "change_pct": -0.11, "note": "Wednesday 18 Nov · lowest since March 2020" }
+    ],
+    "stories": [
+      {
+        "headline": "Nvidia beats big, but the rally fizzles",
+        "summary": "Nvidia reported US$115.8 billion in quarterly revenue against forecasts near US$108.8 billion, with data centre sales up 110% on a year ago, and guided to about US$130 billion next quarter. The stock jumped about 3.5% after hours and opened higher, but it gave back the gains on Wednesday as uncertainty over CEO succession and China export rules lingered.",
+        "why": "Nvidia is one of the biggest weights in global share funds, so its swings show up directly in most KiwiSaver growth balances.",
+        "source": { "name": "Kiplinger", "url": "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026" }
+      },
+      {
+        "headline": "ASX slides for a fifth day as tech sells off",
+        "summary": "The ASX 200 fell 61.4 points, or 0.69%, to 8,821.8 on Wednesday, with information technology the weakest sector, down 2.3%. TechnologyOne dropped 6.1% and Kiwi-founded Xero lost 3.8%, while energy was the only sector to clearly gain.",
+        "why": "Xero is a big name for NZ small businesses and investors, and the trans-Tasman sell-off shows how quickly AI jitters spread to local markets.",
+        "source": { "name": "ShareTrader", "url": "https://sharetrader.com.au/news/2026-11-18-asx-200-extends-losing-streak-to-five-days-as-technologyone-and-rio-tinto-drop" }
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Specials modelling points to a one-seat shortfall",
+      "summary": "The Overhang's latest 20,000-run simulation has the median outcome leaving the National, ACT and NZ First coalition one seat short, with the Opportunity Party holding the balance. The Greens and Opportunity are each likely to gain a list seat and NZ First is almost certain to lose one, with Wairarapa and Hamilton East the electorates to watch.",
+      "why": "Who holds the balance of power will shape which tax, KiwiSaver and business policies make it into the next government's programme.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-18-november-2026" }
+    },
+    {
+      "headline": "Parties share more policy ground than it looks",
+      "summary": "Newsroom analysis found National, Labour, NZ First and Opportunity all want higher KiwiSaver contributions, though they differ on how, and four parties back cheap loans for home solar. All seven parties heading to Parliament want to take on the big supermarket groups.",
+      "why": "Higher KiwiSaver contributions would affect both your own pay packet and the costs of any staff you hire later.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-18-november-2026" }
+    }
+  ],
+  "world": [
+    {
+      "headline": "Iran hits Kuwait and Bahrain after US strike",
+      "summary": "Iran launched attacks on a US-used airbase in Kuwait and on Bahrain, its fourth attack on Bahrain in six days, and a UAE national oil company tanker was targeted crossing the Strait of Hormuz. The moves followed a US strike on a missile launch site on Qeshm Island, which Washington said answered an Iranian attack on a US radar in Bahrain.",
+      "why": "Each flare-up around Hormuz risks pushing oil back up and reversing the recent fall in what you pay at the pump.",
+      "source": { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island" }
+    },
+    {
+      "headline": "Trump, Xi and Putin meet in Shenzhen today",
+      "summary": "Xi Jinping welcomed Donald Trump to Shenzhen on Wednesday for the APEC summit, and a three-way meeting with Vladimir Putin is set for Thursday, the summit's final day. The White House says reducing nuclear weapons will be on the agenda, though no agreements have been reported yet.",
+      "why": "The tone between the US and China, NZ's biggest trading partner, feeds into export demand and the Kiwi dollar.",
+      "source": { "name": "Radio Free Asia", "url": "https://www.rfa.org/english/china/2026/11/18/china-trump-xi-putin-apec-shenzhen/" }
+    }
+  ],
+  "economy": {
+    "stats": [
+      { "label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec" },
+      { "label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter" },
+      { "label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high" },
+      { "label": "Petrol 91", "value": "$3.31/L", "note": "Gaspy national average, 17 Nov" }
+    ],
+    "stories": [
+      {
+        "headline": "RBNZ expects average mortgage rates to climb",
+        "summary": "The Reserve Bank's Financial Stability Report expects the average rate borrowers pay to rise from about 4.8% to 5.4% over the next year, still below the 2024 peak of 6.4%. It says Auckland and Wellington housing remains weak and warns that rising unemployment and higher rates could undo recent gains in mortgage arrears.",
+        "why": "Higher borrowing costs squeeze household budgets, which can make homeowners trim nice-to-have services like window cleaning.",
+        "source": { "name": "interest.co.nz", "url": "https://www.interest.co.nz/property/141113/rbnz-says-average-mortgage-rates-are-set-climb-54-48-next-year-while-nz-house" }
+      },
+      {
+        "headline": "Onions double, airfares soar in October prices",
+        "summary": "Stats NZ's selected price indexes show onions averaged $3.66 a kilo in October, more than double a year earlier, while domestic airfares jumped 33.5% over the year. Petrol rose 11.9% in October, its third straight monthly rise, though overall food prices dipped 0.4% for the month.",
+        "why": "October's fuel spike has since eased, but these figures feed the inflation picture the RBNZ weighs before its 9 December decision.",
+        "source": { "name": "interest.co.nz", "url": "https://www.interest.co.nz/economy/141102/fuel-prices-rose-third-consecutive-month-and-onion-prices-continue-increase" }
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "GTA 6 shows the power of saying less",
+      "summary": "Ahead of Grand Theft Auto VI's midnight launch, Rockstar has built huge hype with almost no interviews, a year between trailers, street murals and parody in-game brands instead of paid placements. Its second trailer drew 475 million views in a day, and analysts estimate about US$1.54 billion in digital pre-orders.",
+      "why": "Consistency and a strong look can beat ad spend; a recognisable van wrap and uniform before-and-after posts build the same kind of brand memory.",
+      "source": { "name": "Creative Boom", "url": "https://www.creativeboom.com/insight/why-gta-6-is-the-years-biggest-campaign-for-a-brand-that-refuses-to-sell-ad-space/" }
+    },
+    {
+      "headline": "Meta's new ad terms kick in on 20 November",
+      "summary": "From 20 November, advertisers are responsible for what Meta's AI features generate in their ads, and Meta may crawl landing pages linked from ads. Continuing to run Facebook or Instagram ads after that date counts as accepting the terms.",
+      "why": "If you run Facebook ads for Coastal Clear Windows, check any AI-generated copy or images before they go live, since you're now on the hook for them.",
+      "source": { "name": "CME Media", "url": "https://cmemedia.com/digital-marketing-changes-november-2026/" }
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "A chance of showers this morning (peaking around 11am), so save ladder work for the afternoon. Friday and Saturday look dry and are the best days for gutters and windows, with Sunday to Tuesday also mostly dry and warmer.",
+    "days": [
+      { "day": "Thu", "high": 19, "low": 14, "rain": 40 },
+      { "day": "Fri", "high": 19, "low": 14, "rain": 5 },
+      { "day": "Sat", "high": 19, "low": 14, "rain": 5 },
+      { "day": "Sun", "high": 21, "low": 15, "rain": 10 },
+      { "day": "Mon", "high": 21, "low": 15, "rain": 10 },
+      { "day": "Tue", "high": 22, "low": 16, "rain": 10 }
+    ]
+  },
+  "watchlist": [
+    { "name": "Nvidia", "value": "Down ~2% Wed (intraday)", "direction": "down", "note": "Beat with US$115.8b revenue; after-hours pop faded" },
+    { "name": "Mainfreight", "value": "~$74.97", "direction": "up", "note": "Up ~1.3% Wed (indicative, Trading Economics)" },
+    { "name": "NZD/USD", "value": "54.88c", "direction": "down", "note": "Lowest since March 2020; strong US dollar" },
+    { "name": "Petrol 91", "value": "$3.31/L", "direction": "down", "note": "Gaspy average, 17 Nov; down 24.3c over 28 days" }
+  ],
+  "term": {
+    "term": "Guidance",
+    "definition": "A company's own forecast of how it expects to perform next quarter or year, such as revenue or profit. Investors often react more to guidance than to the results just reported, because share prices are about the future.",
+    "example": "Nvidia guided to about US$130 billion in revenue next quarter, roughly what analysts hoped, so the stock's early pop faded once the numbers sank in."
+  }
+}
