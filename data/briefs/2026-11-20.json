@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-20",
+  "edition": "Friday 20 November 2026",
+  "updated": "6:45am NZDT",
+  "summary": [
+    "Trump, Xi and Putin met for about 90 minutes in Shenzhen and signed a broad 'peace declaration' on nuclear risk, energy flows and UN reform, though it set no concrete targets.",
+    "a2 Milk sank 9.7% after cutting its first-half revenue outlook, while Anthropic priced its record Nasdaq IPO at US$83 and opened at US$111.50.",
+    "Infometrics says NZ's recovery is continuing but 'slow and patchy', and the Gaspy average for 91 has eased to about $3.25 a litre."
+  ],
+  "markets": {
+    "indices": [
+      { "name": "NZX 50", "value": "14,247.25", "change_pct": -0.12, "note": "Thursday close · down 17.04 points" },
+      { "name": "S&P 500", "value": "7,323.63", "change_pct": -0.23, "note": "Wednesday US close · Thursday session still trading" },
+      { "name": "Nasdaq", "value": "24,429.88", "change_pct": 0.42, "note": "Wednesday US close · Thursday session still trading" },
+      { "name": "Dow Jones", "value": "50,198.17", "change_pct": -1.11, "note": "Wednesday US close · down 561 points on Nvidia and UnitedHealth" },
+      { "name": "ASX 200", "value": "8,730.40", "change_pct": -1.04, "note": "Thursday close · sixth straight fall, miners led losses" },
+      { "name": "NZD/USD", "value": "0.5493", "change_pct": -0.04, "note": "Thursday 19 Nov, 5pm NZT · near multi-year lows" }
+    ],
+    "stories": [
+      {
+        "headline": "a2 Milk drops almost 10% on softer outlook",
+        "summary": "a2 Milk fell 9.7% to $8.01 on Thursday, its sharpest one-day drop since April, after warning first-half revenue would come in slightly below last year as its China-label recovery stays fragile. The NZX 50 slipped 0.1% to 14,247.25, with Freightways up 4.1% the best performer.",
+        "why": "a2 is one of the biggest NZX names in many KiwiSaver and local share funds, and it's a textbook case of how a cut to guidance moves a share price.",
+        "source": { "name": "Good Returns", "url": "https://www.goodreturns.co.nz/article/nzx-50-dips-as-a2-milk-slides-on-souring-outlook-anthropic-prices-ipo" }
+      },
+      {
+        "headline": "Anthropic opens well above its IPO price",
+        "summary": "Anthropic priced its Nasdaq listing at US$83 a share, above its US$70 to US$78 range, raising about US$81.3 billion in what is reported as the biggest IPO ever, at a valuation near US$1.5 trillion. Shares under the ticker ANT opened at US$111.50 on Thursday.",
+        "why": "How big AI listings trade is a live read on tech sentiment, which drives much of the global share exposure in KiwiSaver growth funds.",
+        "source": { "name": "Fox Business", "url": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo" }
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Minor parties to outnumber both major parties",
+      "summary": "Newsroom analysis notes that, for the first time, the five minor parties together are set to hold more seats than either National or Labour, which could end six years of single-bloc majority government. Talks continue ahead of the official result, including specials, due on 27 November.",
+      "why": "A more fragmented Parliament usually means slower, more negotiated policy on tax, KiwiSaver and small-business rules.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-19-november-2026" }
+    },
+    {
+      "headline": "Pension age split remains between major parties",
+      "summary": "Labour and National both back compulsory KiwiSaver but disagree on lifting the pension age from 65 to 67, though both say they are open to cross-party work. ACT would keep KiwiSaver voluntary, raise the pension age gradually and allow KiwiSaver withdrawals at 65.",
+      "why": "Any change to KiwiSaver rules or the pension age shapes how much you'll need to save over the next 45-plus years.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-19-november-2026" }
+    }
+  ],
+  "world": [
+    {
+      "headline": "Trump, Xi and Putin sign broad peace declaration",
+      "summary": "The three leaders met for about 90 minutes on the sidelines of APEC in Shenzhen and issued a four-point declaration covering UN reform, energy security, international courts and nuclear risk. They committed to dialogue on reducing nuclear risks and stressed stable energy flows, but set no arms targets or timetable.",
+      "why": "Calmer relations between the US and China, NZ's biggest export market, help trade, oil prices and the Kiwi dollar.",
+      "source": { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways" }
+    },
+    {
+      "headline": "ICJ rules Myanmar committed genocide",
+      "summary": "The International Court of Justice found Myanmar committed genocide against the Rohingya in northern Rakhine State, the first time the court has made such a ruling. Separately, the UN nuclear watchdog said North Korea is expanding uranium enrichment at Yongbyon.",
+      "why": "Landmark international rulings shape sanctions and trade decisions that ripple through global supply chains and markets.",
+      "source": { "name": "Just Security", "url": "https://www.justsecurity.org/165250/early-edition-november-19-2026/" }
+    }
+  ],
+  "economy": {
+    "stats": [
+      { "label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec" },
+      { "label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter" },
+      { "label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high" },
+      { "label": "Petrol 91", "value": "$3.25/L", "note": "Gaspy national average, 18 Nov" }
+    ],
+    "stories": [
+      {
+        "headline": "Recovery continues, but slow and patchy",
+        "summary": "Infometrics estimates economic activity rose 2.4% in the three months to September, with every region growing except Taranaki, where gas fields are winding down. Principal economist Nick Brunsdon says house values fell 0.9%, which helps affordability but weighs on construction.",
+        "why": "A slow recovery means households stay careful with spending, so reliable service and fair pricing matter more for winning jobs.",
+        "source": { "name": "NZ City", "url": "https://home.nzcity.co.nz/news/article.aspx?id=458277" }
+      },
+      {
+        "headline": "Kiwibank lets customers kill forgotten subscriptions",
+        "summary": "Kiwibank is rolling out a Visa tool that lets customers see and stop recurring card payments in its app and internet banking. Visa's survey found Kiwis average eight recurring payments a month worth about $415, and 34% keep paying for services they no longer use.",
+        "why": "Worth checking your own subscriptions, and if you ever offer regular cleaning plans, make cancelling easy so customers trust signing up.",
+        "source": { "name": "interest.co.nz", "url": "https://www.interest.co.nz/banking/141135/kiwibank-customers-can-now-see-and-stop-recurring-card-payments-through-banks-app" }
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "TikTok bets on AI to qualify leads",
+      "summary": "TikTok is adding AI tools that chat with prospects in DMs and lead forms to qualify them, alongside in-feed checkout and a shopping assistant. Its Ad Network, reaching nearly 400,000 apps, is now open to US advertisers, with launch dates elsewhere not yet confirmed.",
+      "why": "If these tools reach NZ, a quote-request flow on TikTok could pre-screen gutter and window enquiries, so have clear prices and service areas ready.",
+      "source": { "name": "Finn Partners", "url": "https://www.finnpartners.com/news-insights/boom-scroll-november-2026-social-media-updates/" }
+    },
+    {
+      "headline": "John Lewis pitches thoughtful gifts over cash",
+      "summary": "John Lewis's 20th Christmas ad, 'Gloria and Pickles', follows a gran who stops handing out cash and gives a personal gift instead, under the line 'Don't give up on giving'. Profits from the Sam Fender soundtrack single go to Action for Children.",
+      "why": "Gift vouchers for a window or gutter clean are a ready-made Christmas offer, and pitching them as a thoughtful gift beats a generic discount.",
+      "source": { "name": "John Lewis Partnership", "url": "https://www.johnlewispartnership.co.uk/media-centre/latest-news/2026/23969" }
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Friday to Sunday look dry and partly cloudy, so book gutters and exterior windows then, with Sunday the warmest at 22°C. Rain is likely from Monday, so keep early next week for interior jobs or quotes. Rain chances are estimated from forecast rainfall.",
+    "days": [
+      { "day": "Fri", "high": 18, "low": 12, "rain": 10 },
+      { "day": "Sat", "high": 19, "low": 12, "rain": 15 },
+      { "day": "Sun", "high": 22, "low": 11, "rain": 5 },
+      { "day": "Mon", "high": 20, "low": 12, "rain": 70 },
+      { "day": "Tue", "high": 21, "low": 13, "rain": 50 },
+      { "day": "Wed", "high": 21, "low": 15, "rain": 70 }
+    ]
+  },
+  "watchlist": [
+    { "name": "Nvidia", "value": "Opened +4.4% Thu", "direction": "up", "note": "Rebounding after a 2.9% post-earnings fall on Wed" },
+    { "name": "Mainfreight", "value": "~$74.30", "direction": "up", "note": "Up ~0.4% Wed (indicative, Trading Economics)" },
+    { "name": "NZD/USD", "value": "54.93c", "direction": "flat", "note": "Little changed Thursday; still near multi-year lows" },
+    { "name": "Petrol 91", "value": "$3.25/L", "direction": "down", "note": "Gaspy average, 18 Nov; down 17.6c over 28 days" }
+  ],
+  "term": {
+    "term": "IPO pop",
+    "definition": "The jump when a newly listed company's shares open or close their first day well above the price set for the IPO. A big pop is good for investors who got shares at the offer price, but it can also mean the company sold its shares too cheaply.",
+    "example": "Anthropic priced its shares at US$83 and they opened at US$111.50, a pop of about 34% at the open."
+  }
+}
