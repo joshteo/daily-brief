@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-21",
+  "edition": "Saturday 21 November 2026",
+  "updated": "6:20am NZDT",
+  "summary": [
+    "Wall Street's AI sell-off deepened: the S&P 500 fell 2% on Thursday for a sixth straight loss and the Dow dropped 1,101 points, with Nvidia down about another 6.7% in Friday morning trade.",
+    "Russia launched one of the largest attacks of the war on Ukraine, firing over 400 drones and 110 missiles, killing at least six in Kyiv and damaging Dnipro bridges, while an unidentified object fell in eastern Poland.",
+    "The NZX 50 fell 1% on Friday, ending three straight weekly gains, while the national average for 91 petrol eased to about $3.25 a litre."
+  ],
+  "markets": {
+    "indices": [
+      { "name": "NZX 50", "value": "14,107.41", "change_pct": -0.98, "note": "Friday close · down 139.84 points; down 0.5% for the week" },
+      { "name": "S&P 500", "value": "7,175.83", "change_pct": -2.02, "note": "Thursday US close · sixth straight fall; Friday session still trading, down ~1% mid-morning" },
+      { "name": "Nasdaq", "value": "23,879.20", "change_pct": -2.25, "note": "Thursday US close · Friday session down ~2% mid-morning" },
+      { "name": "Dow Jones", "value": "49,097.06", "change_pct": -2.19, "note": "Thursday US close · down 1,101 points; down 6.2% on the week" },
+      { "name": "ASX 200", "value": "8,592.6", "change_pct": -1.58, "note": "Friday close · down 5.4% for the week, tech led losses" },
+      { "name": "NZD/USD", "value": "0.5491", "change_pct": -0.04, "note": "Friday 20 Nov, 5pm NZT · near multi-year lows" }
+    ],
+    "stories": [
+      {
+        "headline": "AI sell-off drags Wall Street to a sixth straight loss",
+        "summary": "The S&P 500 fell 2% to 7,175.83 on Thursday, its longest losing streak since 2024 and 8.2% below last month's record, while the Dow lost 1,101 points to 49,097.06. More than 90% of S&P 500 stocks fell as worries grew that the AI boom may be fading, even as Anthropic closed its first day at US$97.17, above its US$83 IPO price.",
+        "why": "US tech shares make up a big slice of most KiwiSaver growth funds, so a week like this shows up in your balance.",
+        "source": { "name": "ABC News (AP)", "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-11192026-138303454" }
+      },
+      {
+        "headline": "NZX 50 snaps a three-week winning run",
+        "summary": "The NZX 50 fell 139.84 points, or 1%, to 14,107.41 on Friday, leaving it down 0.5% for the week after hitting a record 14,352.72 on Tuesday. a2 Milk lost 13% over the week after cutting its revenue guidance, while Serko gained 11%.",
+        "why": "The local market had held up well, but global AI jitters are now reaching NZ shares, which matters for NZ-heavy KiwiSaver funds.",
+        "source": { "name": "The Bottom Line", "url": "https://www.thebottomline.co.nz/nzx-50-retreats-from-record-snapping-three-weeks-of-gains/" }
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Major parties' combined vote hits an MMP low",
+      "summary": "Analysis by The Post's Henry Cooke found only 62% of party votes went to National or Labour, the lowest share in MMP history. Opportunity won 12.8% in Wellington, more than double its national result, while the official count including special votes is due on 27 November.",
+      "why": "A Parliament with more minor-party votes usually means more negotiated policy on tax, KiwiSaver and small-business rules.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-20-november-2026" }
+    },
+    {
+      "headline": "Shane Jones sets out mining demands before talks",
+      "summary": "Caretaker Resources Minister Shane Jones wants the 1953 Wildlife Act rewritten and DOC's say over commercial mining and development permits removed, raising it ahead of coalition talks. DOC has reversed its refusal of a Macraes mine expansion permit after Jones warned 700 jobs were at risk.",
+      "why": "How permits and environmental rules are handled is an early marker of the business settings the next government may adopt.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-20-november-2026" }
+    }
+  ],
+  "world": [
+    {
+      "headline": "Russia hits Kyiv in one of the war's largest attacks",
+      "summary": "Ukraine says Russia fired more than 400 drones and over 110 missiles overnight, killing at least six people in Kyiv and two at a Lviv train station. Three bridges over the Dnipro were hit, with the Podil-Voskresensky crossing closed to traffic heading to the left bank.",
+      "why": "Escalation in Ukraine keeps pressure on global energy prices, which flow through to NZ fuel and inflation.",
+      "source": { "name": "Euronews", "url": "https://www.euronews.com/2026/11/20/russian-strikes-on-kyiv-kill-three-and-damage-two-bridges" }
+    },
+    {
+      "headline": "Object crashes in eastern Poland during Russian strikes",
+      "summary": "An unidentified object fell near the village of Chmielek in Poland's Lublin region and caught fire, with no casualties reported, as Russia struck western Ukraine. Prime Minister Donald Tusk convened ministers, military chiefs and intelligence heads over the airspace violation, and Polish air defences were put on alert.",
+      "why": "Any spillover onto NATO territory raises the risk of wider conflict, which moves markets and the Kiwi dollar.",
+      "source": { "name": "Euronews", "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine" }
+    }
+  ],
+  "economy": {
+    "stats": [
+      { "label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec" },
+      { "label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter" },
+      { "label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high" },
+      { "label": "Petrol 91", "value": "$3.25/L", "note": "Gaspy national average, 19 Nov" }
+    ],
+    "stories": [
+      {
+        "headline": "Breman says fuel and a weak Kiwi keep inflation high",
+        "summary": "Reserve Bank Governor Anna Breman told an Institute of Directors event in Auckland that inflation remains above the 2% midpoint, pushed by fuel costs and a weaker New Zealand dollar, while the recovery is uneven. She said the Monetary Policy Committee will weigh the data and act as needed before its next decision.",
+        "why": "Her tone feeds into whether the OCR rises in December, which would make vehicle and equipment loans dearer.",
+        "source": { "name": "IndexBox (Reuters)", "url": "https://www.indexbox.io/blog/rbnzs-breman-fuel-costs-and-weaker-currency-keep-inflation-above-2-target/" }
+      },
+      {
+        "headline": "Pump prices keep sliding from October's peak",
+        "summary": "The national average for 91 was $3.25 a litre on 19 November, down 27.4 cents over 28 days, with diesel at about $2.96, according to Gaspy data from more than 1,500 stations. Stats NZ figures show petrol was still 38% dearer in October than a year earlier.",
+        "why": "Cheaper fuel directly lowers the cost of driving between jobs, so it's a good moment to check your quote prices still cover travel.",
+        "source": { "name": "NZ Fuel Watch", "url": "https://www.fuelwatch.nz/" }
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Coca-Cola drops AI for live-action Christmas films",
+      "summary": "Coca-Cola's 2026 'Enjoy Joy' holiday campaign, running in the US from 19 November, uses live-action films after its AI-generated ads in 2024 and 2025 drew criticism. It comes in 30-, 15- and 6-second cuts for TV, streaming and social, backed by creator content on Meta, TikTok, Pinterest and YouTube.",
+      "why": "Even giant brands are finding people respond better to real footage, so genuine before-and-after clips of your own jobs beat stock or AI imagery.",
+      "source": { "name": "ContentGrip", "url": "https://contentgrip.com/coca-cola-enjoy-joy-holiday" }
+    },
+    {
+      "headline": "Google Ads switches on more AI by default",
+      "summary": "Google Ads Editor 2.14 now turns on AI Max, text asset automation and final URL expansion by default for new Search campaigns built in Editor. Google also lets advertisers download their Local Services Ads history ahead of those ads moving into Google Ads.",
+      "why": "If you run Google ads for Coastal Clear Windows, check new campaigns so Google isn't rewriting your ads or sending clicks to pages you didn't choose.",
+      "source": { "name": "JXT Group", "url": "https://www.jxtgroup.com/this-week-google-meta-ads-nov-17-2026/" }
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Today and Sunday are the days for gutters and exterior windows, with Sunday mostly sunny and almost no rain risk. Monday looks wet. Forecasts disagree on Tuesday and Wednesday (Yr dry, AccuWeather showery), so book flexibly; Thursday looks workable. Figures from AccuWeather, converted to °C.",
+    "days": [
+      { "day": "Sat", "high": 20, "low": 11, "rain": 25 },
+      { "day": "Sun", "high": 22, "low": 13, "rain": 2 },
+      { "day": "Mon", "high": 21, "low": 14, "rain": 85 },
+      { "day": "Tue", "high": 23, "low": 15, "rain": 60 },
+      { "day": "Wed", "high": 22, "low": 16, "rain": 65 },
+      { "day": "Thu", "high": 23, "low": 16, "rain": 25 }
+    ]
+  },
+  "watchlist": [
+    { "name": "Nvidia", "value": "Down ~6.7% Fri (intraday)", "direction": "down", "note": "About US$136 mid-morning; closed Thu at US$145.98, down 3.3%" },
+    { "name": "Mainfreight", "value": "No fresh quote", "direction": "flat", "note": "Friday's price not confirmed; NZX 50 fell 1%" },
+    { "name": "NZD/USD", "value": "54.91c", "direction": "flat", "note": "Friday 5pm, from 54.93c Thursday; near multi-year lows" },
+    { "name": "Petrol 91", "value": "$3.25/L", "direction": "down", "note": "Gaspy average, 19 Nov; down 27.4c over 28 days" }
+  ],
+  "term": {
+    "term": "Market correction",
+    "definition": "A fall of 10% or more from a recent high in a share index or stock. It's bigger than a normal dip but smaller than a bear market (a 20% fall), and corrections happen fairly often.",
+    "example": "After losing 6.2% this week, the Dow is just under 10% below its record, while the S&P 500 sits 8.2% below its peak."
+  }
+}
