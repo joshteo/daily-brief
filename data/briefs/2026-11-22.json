@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-22",
+  "edition": "Sunday 22 November 2026",
+  "updated": "6:45am NZDT",
+  "summary": [
+    "Wall Street's AI rout turned into a correction: the S&P 500 fell 3.7% on Friday and 8.6% for the week, the Nasdaq dropped 5.3%, and Nvidia plunged 14%.",
+    "In NZ, coalition formation stays on hold until the official count on 27 November, with modelling giving the current coalition only a 22% chance of keeping its majority once special votes are counted.",
+    "A suspected drone strike set a sanctioned Russian cargo ship ablaze in the Gulf of Finland, while 91 petrol has eased to about $3.24 a litre nationally."
+  ],
+  "markets": {
+    "indices": [
+      { "name": "NZX 50", "value": "14,107.41", "change_pct": -0.98, "note": "Friday 20 Nov close · down 0.5% for the week; next session Monday" },
+      { "name": "S&P 500", "value": "6,910.39", "change_pct": -3.70, "note": "Friday US close · down 8.6% for the week; now in a correction" },
+      { "name": "Nasdaq", "value": "22,617.73", "change_pct": -5.28, "note": "Friday US close · down 10% for the week; negative for 2026" },
+      { "name": "Dow Jones", "value": "48,147.33", "change_pct": -1.93, "note": "Friday US close · down 949.73 points; down 8% for the week" },
+      { "name": "ASX 200", "value": "8,593", "change_pct": -1.6, "note": "Friday 20 Nov close · seventh straight loss; down 5.4% for the week" },
+      { "name": "NZD/USD", "value": "0.5480", "change_pct": -0.07, "note": "Friday 20 Nov · near its lowest level since March 2009" }
+    ],
+    "stories": [
+      {
+        "headline": "S&P 500 and Dow fall into correction territory",
+        "summary": "A heavy sell-off in AI stocks knocked the S&P 500 down 3.7% to 6,910.39 on Friday, leaving it more than 10% below its 6 October record, while the Nasdaq fell 5.3% and the Dow lost 949.73 points. Over the week the S&P 500 shed 8.6%, the Dow 8% and the Nasdaq 10%, wiping out the Nasdaq's gain for the year.",
+        "why": "Most KiwiSaver growth funds hold plenty of US tech, so expect a noticeably lower balance on your next statement; it's a textbook case study for your finance papers too.",
+        "source": { "name": "Yakima Herald (AP)", "url": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html" }
+      },
+      {
+        "headline": "Nvidia plunges 14% as chip stocks crack",
+        "summary": "Nvidia closed at US$125.53 on Friday, down 14% on the day and nearly 23% for the week, amid reports of an SEC accounting probe and a congressional inquiry linked to a chip-export case. Other chipmakers also slumped, with AMD down 13.2%, Broadcom 12.2% and Micron 13.9%, as traders took profits after Anthropic's IPO.",
+        "why": "When the market's biggest AI name falls this hard, it drags down the global funds most young investors own.",
+        "source": { "name": "The Closing Print", "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/" }
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Special votes could reshape the coalition maths",
+      "summary": "About 399,000 special votes are still to be counted before the official result on Friday 27 November, and modelling cited by the Herald's Thomas Coughlan gives National, ACT and NZ First a 22% chance of keeping their majority. The same modelling gives Opportunity a 58% chance of becoming kingmaker, and Christopher Luxon says formal talks will wait for the final count.",
+      "why": "Which parties form the next government will set tax, KiwiSaver and small-business rules for the next three years.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-21-november-2026" }
+    },
+    {
+      "headline": "NZ First weighs Michael Laws' caucus place",
+      "summary": "Incoming NZ First MP Michael Laws faced criticism over remarks about Opportunity MP Kayla Kingdon-Bebb and has said he will not back down. NZ First has yet to decide whether he keeps his place in caucus, as the party heads towards coalition negotiations.",
+      "why": "Friction between NZ First and Opportunity could matter if both end up needed to form a government.",
+      "source": { "name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-21-november-2026" }
+    }
+  ],
+  "world": [
+    {
+      "headline": "Drone strike sets Russian cargo ship ablaze off Finland",
+      "summary": "The sanctioned Russian ro-ro ship Sparta II was hit by a suspected drone about 50 km west of Gogland Island in the Gulf of Finland, then drifted burning into Finnish waters as its 16 crew evacuated. Finland reimposed temporary air and sea restrictions and reported a suspected Russian helicopter airspace violation, while Kyiv has not confirmed involvement.",
+      "why": "The war spreading into Baltic shipping lanes adds risk to global trade and energy costs, which feed into NZ prices.",
+      "source": { "name": "gCaptain", "url": "https://gcaptain.com/russian-military-linked-cargo-ship-burns-after-suspected-drone-strike-in-gulf-of-finland/" }
+    },
+    {
+      "headline": "Five EU countries plan a Rwanda 'return hub'",
+      "summary": "Denmark, Austria, Germany, the Netherlands and Greece plan to start sending around 100 rejected asylum seekers who can't be returned home to Rwanda from 2027, using a new EU return regulation. Rights groups question Rwanda's record, while Rwanda says an independent monitoring mechanism will protect people's rights.",
+      "why": "It's a major test of how wealthy countries manage migration, an issue that shapes labour markets and politics worldwide.",
+      "source": { "name": "Euronews", "url": "https://www.euronews.com/2026/11/21/five-eu-countries-plan-to-send-migrants-to-rwanda-is-it-legal" }
+    }
+  ],
+  "economy": {
+    "stats": [
+      { "label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec" },
+      { "label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter" },
+      { "label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high" },
+      { "label": "Petrol 91", "value": "$3.24/L", "note": "Gaspy national average, 21 Nov" }
+    ],
+    "stories": [
+      {
+        "headline": "Westpac expects more OCR hikes into 2027",
+        "summary": "Westpac's November economic overview says the economy is growing around trend but unevenly, favouring export industries, while the housing market is very weak. It expects the Reserve Bank to keep lifting the OCR gradually through the end of 2026 and into 2027, as inflation looks hard to bring down.",
+        "why": "Rising rates make finance for a van, ladders or equipment dearer, so lock in costs before borrowing.",
+        "source": { "name": "Westpac IQ", "url": "https://www.westpaciq.com.au/economics/2026/11/nz-economic-overview-november-2026" }
+      },
+      {
+        "headline": "91 petrol slips below $3.25 a litre",
+        "summary": "The national average for 91 was $3.237 a litre on 21 November, down 29.4 cents over 28 days, while diesel averaged $2.953, down 17.8 cents, according to Gaspy data from more than 1,500 stations.",
+        "why": "Every cent off fuel lowers what it costs you to drive to each job, improving margins on small Auckland call-outs.",
+        "source": { "name": "NZ Fuel Watch", "url": "https://www.fuelwatch.nz/" }
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Shoppers find small businesses through word of mouth",
+      "summary": "The 2026 American Express Shop Small study found recommendations from friends and family drive 65% of small-business discovery, ahead of reviews at 45% and social posts at 39%. It also found 35% of US shoppers plan to use AI tools to find small businesses this season, rising to 45% among Gen Z and millennials.",
+      "why": "Ask happy customers for Google reviews, keep your Business Profile up to date, and check what an AI assistant says when asked for window cleaners near you.",
+      "source": { "name": "SBE Council", "url": "https://sbecouncil.org/2026/11/20/small-business-saturday-2026-is-your-business-ready-consumers-are-ready-to-shop-small" }
+    },
+    {
+      "headline": "Google Ads shows how much invalid traffic it filters",
+      "summary": "Google Ads has added an Invalid Traffic card to the account overview, showing spend filtered out before billing and credits for invalid clicks found later. Separately, Demand Gen Display targeting moves to the ad-group level from the week of 1 December, and Display-only ad groups will be paused.",
+      "why": "For a local service business paying per click, this card shows whether bots or accidental clicks are eating your budget, and any Demand Gen campaigns need a check before December.",
+      "source": { "name": "Brandon Mangan (Google Ads change log)", "url": "https://buttondown.com/brandonmangan/archive/google-ads-changes-nov-9-15-invalid-traffic-card/" }
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Sunday and Tuesday look the best for gutters and exterior windows, with mostly sunny skies and little rain. Monday to Thursday stay largely workable with only light showers possible, but Friday looks wet (5-10mm), so get outdoor jobs done before then. Temps from Yr, rain chances from The Weather Network (Sunday estimated from Met Office and Yr, which show it sunny and nearly dry).",
+    "days": [
+      { "day": "Sun", "high": 21, "low": 12, "rain": 10 },
+      { "day": "Mon", "high": 21, "low": 13, "rain": 40 },
+      { "day": "Tue", "high": 21, "low": 14, "rain": 20 },
+      { "day": "Wed", "high": 22, "low": 13, "rain": 30 },
+      { "day": "Thu", "high": 23, "low": 14, "rain": 30 },
+      { "day": "Fri", "high": 23, "low": 15, "rain": 90 }
+    ]
+  },
+  "watchlist": [
+    { "name": "Nvidia", "value": "US$125.53", "direction": "down", "note": "Down 14% Friday and 22.9% for the week amid probe reports" },
+    { "name": "Mainfreight", "value": "No fresh quote", "direction": "flat", "note": "Friday's price not confirmed; NZX 50 fell 1% Friday" },
+    { "name": "NZD/USD", "value": "54.80c", "direction": "down", "note": "Friday 20 Nov, down 0.07%; near lowest since March 2009" },
+    { "name": "Petrol 91", "value": "$3.24/L", "direction": "down", "note": "Gaspy average, 21 Nov; down 29.4c over 28 days" }
+  ],
+  "term": {
+    "term": "Profit-taking",
+    "definition": "When investors sell shares that have risen in price to lock in their gains. If lots of people do it at once, it can push prices down sharply even without bad news about the company.",
+    "example": "After Anthropic's strong market debut on Thursday, traders sold chip and AI stocks on Friday to bank gains, helping push Nvidia down 14%."
+  }
+}
