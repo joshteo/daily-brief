@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-23",
+  "edition": "Monday 23 November 2026",
+  "updated": "6:30am NZDT",
+  "summary": [
+    "Markets head into a holiday-shortened US week still nursing Friday's AI rout, with the S&P 500 and Dow in correction and US inflation (core PCE) and GDP data due Wednesday.",
+    "Nicola Willis says the overhang could reach 11 or more seats once Friday's official count lands, as more than 40 academics call for an urgent review of MMP rules.",
+    "Iran has stepped up attacks around the Gulf, with at least 25 tankers hit near Hormuz in a week, while COP31 climate talks collapsed without a deal."
+  ],
+  "markets": {
+    "indices": [
+      {"name": "NZX 50", "value": "14,107.41", "change_pct": -0.98, "note": "Friday 20 Nov close · down 0.5% for the week; trading resumes today"},
+      {"name": "S&P 500", "value": "6,910.39", "change_pct": -3.7, "note": "Friday 20 Nov US close · down 8.6% for the week; in a correction"},
+      {"name": "Nasdaq", "value": "22,617.73", "change_pct": -5.28, "note": "Friday 20 Nov US close · down 10% for the week; negative for 2026"},
+      {"name": "Dow Jones", "value": "48,147.33", "change_pct": -1.93, "note": "Friday 20 Nov US close · down 8% for the week; worst week since March 2020"},
+      {"name": "ASX 200", "value": "8,592.6", "change_pct": -1.58, "note": "Friday 20 Nov close · down 5.4% for the week, five straight losses"},
+      {"name": "NZD/USD", "value": "0.5470", "change_pct": -0.25, "note": "Friday 20 Nov close · around its lowest since March 2009"}
+    ],
+    "stories": [
+      {
+        "headline": "Holiday-shortened week puts US inflation data in focus",
+        "summary": "After last week's AI sell-off, US investors face core PCE inflation and third-quarter GDP figures on Wednesday, plus earnings from Hewlett Packard Enterprise, Zoom and Dell. US markets shut Thursday for Thanksgiving and close early on Friday, with all three main indexes now below key long-term moving averages.",
+        "why": "Hot inflation data would add to bets on more Fed hikes, which tends to strengthen the US dollar and keep pressure on the Kiwi and your KiwiSaver's global shares.",
+        "source": {"name": "FXEmpire", "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337"}
+      },
+      {
+        "headline": "NZX 50 snaps three-week winning run",
+        "summary": "The NZX 50 fell 0.98% to 14,107.41 on Friday and 0.5% for the week, its first weekly loss after three weeks of gains and a record high of 14,352.72 on Tuesday. a2 Milk dropped 13% over the week after cutting guidance, while Serko gained 11%.",
+        "why": "The local market has held up far better than Wall Street so far, a useful contrast to watch when it reopens today after the US rout.",
+        "source": {"name": "The Bottom Line", "url": "https://www.thebottomline.co.nz/nzx-50-retreats-from-record-snapping-three-weeks-of-gains/"}
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Willis keeps comeback door ajar and backs MMP review",
+      "summary": "Nicola Willis, who will leave Parliament because National has no list MPs, told Q+A the overhang could reach 11 seats or more once final results come out this week, on top of a provisional 131-seat Parliament. More than 40 academics and electoral experts have signed an open letter seeking an urgent cross-party inquiry into MMP settings this term.",
+      "why": "Changes to MMP rules would shape how votes turn into seats, and so who sets tax and business policy, at future elections.",
+      "source": {"name": "1News", "url": "https://www.1news.co.nz/2026/11/22/willis-keeps-door-ajar-for-political-comeback-boosts-calls-for-mmp-review/"}
+    },
+    {
+      "headline": "Coalition clock ticks ahead of Friday's official count",
+      "summary": "On the preliminary count National, ACT and NZ First hold 67 of 131 seats, one more than the 66 needed, with about 400,000 special votes due in Friday's official result. Parliament must sit by 14 January, and outgoing Speaker Gerry Brownlee has warned parties not to rush a deal to finish before Christmas.",
+      "why": "A one-seat margin means special votes alone could change which parties govern and what policies they agree on.",
+      "source": {"name": "NEWS WIRE", "url": "https://newswire.co.nz/2026/11/gerry-brownlee-warns-parties-not-to-rush-coalition-deal-before-christmas/"}
+    }
+  ],
+  "world": [
+    {
+      "headline": "Iran escalates attacks on Gulf shipping and US bases",
+      "summary": "Iran's Revolutionary Guard says it struck US positions at two bases in Bahrain, and at least 25 tankers have been hit in and around the Strait of Hormuz in the past week, with transits down 15%. Oil briefly topped US$100 a barrel before settling near US$83, and Gulf shipping insurance costs have soared.",
+      "why": "Disruption at Hormuz feeds straight into global oil prices, and so into what you pay at the pump for every job.",
+      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"}
+    },
+    {
+      "headline": "COP31 climate talks end without a deal",
+      "summary": "The UN climate summit in Antalya, Turkey, ended on Sunday two days into overtime with no agreed text, after the EU, Panama and the Marshall Islands rejected a draft that dropped all mention of fossil fuels. It is the first time since Copenhagen in 2009 that the talks produced no deal accepted by all.",
+      "why": "Stalled climate agreements leave uncertainty over future carbon and fuel costs for businesses, including NZ exporters.",
+      "source": {"name": "Cyprus Inform", "url": "https://www.kiprinform.com/en/news/cop31-climate-talks-in-turkey-end-without-a-deal-after-eu-and-others-reject-draft/"}
+    }
+  ],
+  "economy": {
+    "stats": [
+      {"label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec"},
+      {"label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter"},
+      {"label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high"},
+      {"label": "Petrol 91", "value": "$3.22/L", "note": "Gaspy national average, 22 Nov"}
+    ],
+    "stories": [
+      {
+        "headline": "Breman flags fuel costs spreading through the economy",
+        "summary": "Reserve Bank Governor Anna Breman says the indirect effect of high fuel prices and a weak dollar may grow, after October data showed petrol up 11.9% and diesel up 11.1% in a single month. The RBNZ expects inflation to hit 4.4% in the December quarter, well above its 1-3% target, ahead of its 9 December decision.",
+        "why": "If fuel costs push up everything else, another rate rise becomes more likely, and your own supplies and callout costs will creep up too.",
+        "source": {"name": "interest.co.nz", "url": "https://www.interest.co.nz/economy/141150/reserve-bank-governor-anna-breman-says-indirect-impact-elevated-fuel-prices-may-be"}
+      },
+      {
+        "headline": "Directors less gloomy but want a long-term plan",
+        "summary": "An Institute of Directors survey found 48% of directors expect the economy to improve over the next year, and only 12.6% expect it to worsen, the least pessimism in a decade. But 32.2% now name the lack of a long-term economic strategy as a barrier to growth, up nearly 12 points in a year.",
+        "why": "Business confidence shapes whether commercial clients spend on property upkeep like window and gutter cleaning.",
+        "source": {"name": "B2B News", "url": "https://b2bnews.co.nz/news/iod-survey-32-percent-of-directors-blame-nzs-lack-of-economic-plan/"}
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Google's November core update nears the finish line",
+      "summary": "Google's core search update began on 10 November and can take up to two weeks, so it should wrap up around 24 November. SEO advisers suggest holding off on big website changes until it's done, then comparing Search Console data against the week before it started.",
+      "why": "If your Coastal Clear site's rankings wobble this week, don't panic-edit; keep your Google Business Profile active with posts and reviews so leads keep coming.",
+      "source": {"name": "SEO District", "url": "https://www.seodistrict.net/google-november-2026-core-update/"}
+    },
+    {
+      "headline": "InMobi launches AI agents to run small-business ads",
+      "summary": "InMobi's new Accelerate platform uses seven AI agents to plan, build, launch and measure campaigns across Google, Meta, TikTok, Microsoft and ChatGPT from one dashboard, with nothing going live without the advertiser's approval. It is free to start, though full pricing isn't published and its return-on-ad-spend figures come from InMobi's own tracking.",
+      "why": "Tools like this promise to save a solo operator hours on ads, but check costs and measure results yourself before handing over your budget.",
+      "source": {"name": "PPC Land", "url": "https://ppc.land/inmobi-lets-seven-ai-agents-run-small-firms-google-meta-and-chatgpt-ads/"}
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Today (Monday) is the pick for gutters and exterior windows, with dry skies and only a northeasterly breeze. Tuesday is the worst day, with afternoon showers and the strongest wind, and Thursday has a chance of an afternoon shower, so work mornings on those days. Friday and Saturday look good, with Saturday the calmest for ladder work. Temps from Yr; rain chances from The Weather Network (Monday from WeatherWatch).",
+    "days": [
+      {"day": "Mon", "high": 21, "low": 14, "rain": 0},
+      {"day": "Tue", "high": 21, "low": 14, "rain": 60},
+      {"day": "Wed", "high": 21, "low": 17, "rain": 30},
+      {"day": "Thu", "high": 24, "low": 15, "rain": 40},
+      {"day": "Fri", "high": 20, "low": 14, "rain": 30},
+      {"day": "Sat", "high": 22, "low": 15, "rain": 30}
+    ]
+  },
+  "watchlist": [
+    {"name": "Nvidia", "value": "US$125.53", "direction": "down", "note": "Down 14% Friday amid an SEC accounting review report"},
+    {"name": "Mainfreight", "value": "$72.31", "direction": "down", "note": "Down 2.1% Friday, among NZX 50 laggards"},
+    {"name": "NZD/USD", "value": "54.70c", "direction": "down", "note": "Friday 20 Nov, down about 0.25%; near lowest since 2009"},
+    {"name": "Petrol 91", "value": "$3.22/L", "direction": "down", "note": "Gaspy average, 22 Nov; down 22.4c over 28 days"}
+  ],
+  "term": {
+    "term": "Second-round effects",
+    "definition": "When a price rise in one thing, like fuel, spreads into other prices and wages as businesses pass on their higher costs and workers ask for more pay. Central banks worry about these because they can keep inflation high long after the original shock fades.",
+    "example": "RBNZ Governor Anna Breman warned the indirect impact of high fuel prices may grow, meaning higher freight and travel costs could start showing up in the price of everyday goods and services."
+  }
+}
