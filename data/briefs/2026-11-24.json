@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-24",
+  "edition": "Tuesday 24 November 2026",
+  "updated": "6:18am NZDT",
+  "summary": [
+    "Nvidia reinstated Jensen Huang as CEO and its shares jumped more than 30% in Monday trading, lifting Wall Street sharply after last week's AI rout.",
+    "Before that rebound arrived, the NZX 50 fell 2.7% on Monday, its sharpest one-day drop since March, with 44 of 50 stocks lower.",
+    "Ukraine says its naval drones sank a Russian corvette at Benghazi in Libya, while oil slipped as supply-surplus forecasts outweighed fresh Hormuz threats."
+  ],
+  "markets": {
+    "indices": [
+      {"name": "NZX 50", "value": "13,730.53", "change_pct": -2.67, "note": "Monday 23 Nov close · sharpest daily fall since March; 44 decliners, 4 gainers"},
+      {"name": "S&P 500", "value": "6,910.39", "change_pct": -3.7, "note": "Friday 20 Nov US close · up about 4.8% at 7,240 by midday Monday as tech rebounded"},
+      {"name": "Nasdaq", "value": "22,617.73", "change_pct": -5.28, "note": "Friday 20 Nov US close · up about 6.6% at 24,119 by midday Monday"},
+      {"name": "Dow Jones", "value": "48,147.33", "change_pct": -1.93, "note": "Friday 20 Nov US close · up about 3% at 49,585 by midday Monday"},
+      {"name": "ASX 200", "value": "8,570.6", "change_pct": -0.26, "note": "Monday 23 Nov close · banks dragged ahead of Wednesday's CPI; miners bounced"},
+      {"name": "NZD/USD", "value": "0.5476", "change_pct": 0.09, "note": "Monday 23 Nov · still near its weakest since March 2009"}
+    ],
+    "stories": [
+      {
+        "headline": "Nvidia brings back Jensen Huang, sparking a Wall Street rebound",
+        "summary": "Nvidia reinstated Jensen Huang as president, CEO and director with immediate effect, after he resigned on 12 November, and its board said it had input from senior US government figures. Nvidia shares were up about 32% by midday Monday in New York, pulling the S&P 500 up nearly 5% and the Nasdaq more than 6%.",
+        "why": "Nvidia's swings now move the whole market, including the global share funds in most KiwiSaver accounts, so a rebound like this can undo a chunk of last week's losses.",
+        "source": {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html"}
+      },
+      {
+        "headline": "NZX 50 suffers its worst day since March",
+        "summary": "The NZX 50 fell 2.7% to 13,730.53 on Monday, catching up with last week's global AI sell-off before the US rebound began. Gentrack slid 14% after a 41% fall in first-half earnings, while Infratil, Meridian and Spark each lost more than 3%.",
+        "why": "Local shares fell on news that was already reversing overseas, a reminder that NZ prices can lag offshore moves by a day.",
+        "source": {"name": "The Bottom Line", "url": "https://www.thebottomline.co.nz/nzx-50-joins-global-rout-as-ai-trade-gets-tested/"}
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "ACT floats scrapping Māori seats to fix the overhang",
+      "summary": "ACT has argued that abolishing the Māori electorates would solve the overhang that has pushed Parliament above 120 seats. On preliminary numbers National won seven overhang seats and Te Pāti Māori four, ahead of Friday's official count.",
+      "why": "How overhang seats are handled affects the size of Parliament and how closely seat numbers match the party vote at future elections.",
+      "source": {"name": "RNZ", "url": "https://www.rnz.co.nz/news/politics_election-2026/2752995/act-claims-scrapping-maori-seats-would-solve-overhang-woes"}
+    },
+    {
+      "headline": "Low turnout and a squeezed middle mark the 2026 result",
+      "summary": "Turnout is on track to be the second lowest in New Zealand history, and National and Labour are each on 29% in preliminary results, their lowest combined share since 1996. Commentators including Sir Peter Gluckman describe a hollowing out of the political middle, as parties wait on Friday's final count before formal coalition talks.",
+      "why": "A fragmented Parliament usually means more parties at the negotiating table, which shapes the tax, student and small-business policies that end up in a coalition deal.",
+      "source": {"name": "1News (RNZ)", "url": "https://www.1news.co.nz/2026/11/22/are-new-zealanders-sick-of-politics-or-sick-of-politicians/"}
+    }
+  ],
+  "world": [
+    {
+      "headline": "Ukraine says it sank a Russian warship off Libya",
+      "summary": "President Zelenskyy said seven Ukrainian naval drones struck the Benghazi naval base on Sunday, sinking the Russian corvette Merkury, damaging the cargo ship MV Angara and destroying a helicopter. Libyan authorities and the UN mission in Libya have called for an independent investigation.",
+      "why": "The war spreading to the Mediterranean adds another risk to shipping routes, which can feed into freight and import costs.",
+      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know"}
+    },
+    {
+      "headline": "Oil slips despite new threats around Hormuz",
+      "summary": "Brent traded near US$91 a barrel on Monday and WTI fell more than US$1, as forecasts of a global supply surplus outweighed tension with Iran. President Trump warned the US could resume strikes if talks fail, while Iran confirmed talks through Qatar and said two tankers hit mines near Hormuz.",
+      "why": "Lower crude prices are what let pump prices keep easing, which cuts the running cost of your work vehicle.",
+      "source": {"name": "Mansfield Energy", "url": "https://mansfield.energy/2026/11/23/oil-prices-fall-despite-renewed-threats-in-the-strait-of-hormuz/"}
+    }
+  ],
+  "economy": {
+    "stats": [
+      {"label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec"},
+      {"label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter"},
+      {"label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high"},
+      {"label": "Petrol 91", "value": "$3.20/L", "note": "Gaspy national average, 23 Nov"}
+    ],
+    "stories": [
+      {
+        "headline": "Petrol keeps sliding, now about 30c cheaper than a month ago",
+        "summary": "The national average for 91 petrol was $3.198 a litre on 23 November, down 29.5 cents over 28 days, according to Gaspy data. Diesel averaged $2.930, down 20.6 cents over the same period.",
+        "why": "Cheaper fuel trims the cost of every quote visit and job you drive to, and eases one of the main inflation pressures the Reserve Bank is watching.",
+        "source": {"name": "NZ Fuel Watch", "url": "https://www.fuelwatch.nz/"}
+      },
+      {
+        "headline": "Westpac expects gradual rate rises as growth holds up",
+        "summary": "Westpac says the economy is growing at or a little above trend and expects the Reserve Bank to keep lifting the OCR gradually through the end of 2026 and into 2027. It says unemployment peaked higher than thought but the peak is close, with joblessness expected to fall through 2027.",
+        "why": "Rising rates make borrowing for gear or a vehicle dearer, while a turning job market should help households keep spending on services like yours.",
+        "source": {"name": "Westpac IQ", "url": "https://www.westpaciq.com.au/economics/2026/11/nz-economic-overview-november-2026"}
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Google wires Angi and Thumbtack into Search for home services",
+      "summary": "Google is rolling out new connected apps in US Search and the Gemini app, saying Angi and Thumbtack will connect in the coming weeks for local home-service requests. It means some customers may book tradespeople through those platforms without leaving Google.",
+      "why": "It's US-only for now, but it shows where local search is heading: keep your Google Business Profile and any directory listings complete, with service areas, photos and reviews.",
+      "source": {"name": "The Agile Brand Guide", "url": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-november-23-2026/"}
+    },
+    {
+      "headline": "Small Business Saturday tips: don't try to out-discount Black Friday",
+      "summary": "Ahead of the US Small Business Saturday on 28 November, Forbes advises small firms to promote their involvement, tidy up their website and digital channels, and avoid matching big-box discounts. It also suggests gift-card offers to bring customers back in the new year.",
+      "why": "A pre-Christmas gift voucher for a window or gutter clean is an easy way to sell work now that gets booked in quieter January weeks.",
+      "source": {"name": "Forbes", "url": "https://www.forbes.com/sites/rhettbuttle/2026/11/23/small-business-saturday-2026-five-tips-for-business-owners/"}
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "A mostly dry week for outdoor work. Today (Tuesday) is fine early but may bring afternoon showers, so do ladder and gutter work in the morning. Wednesday and Thursday are cloudy with only a trace of rain, fine for windows. Friday to Sunday look the best, with clear or partly cloudy skies and the lightest winds on Saturday. Temps from Yr; rain chances are estimates from forecast rainfall (Yr and Weather Underground), as no percentages were published.",
+    "days": [
+      {"day": "Tue", "high": 21, "low": 14, "rain": 40},
+      {"day": "Wed", "high": 21, "low": 17, "rain": 20},
+      {"day": "Thu", "high": 24, "low": 15, "rain": 20},
+      {"day": "Fri", "high": 21, "low": 13, "rain": 5},
+      {"day": "Sat", "high": 23, "low": 13, "rain": 5},
+      {"day": "Sun", "high": 22, "low": 15, "rain": 5}
+    ]
+  },
+  "watchlist": [
+    {"name": "Nvidia", "value": "US$166.33", "direction": "up", "note": "Up about 32% by midday Monday after Huang's reinstatement"},
+    {"name": "Mainfreight", "value": "$69.25", "direction": "down", "note": "Down 4.2% Monday in the broad NZX sell-off"},
+    {"name": "NZD/USD", "value": "54.76c", "direction": "flat", "note": "Monday 23 Nov, up about 0.1%; near lowest since 2009"},
+    {"name": "Petrol 91", "value": "$3.20/L", "direction": "down", "note": "Gaspy average, 23 Nov; down 29.5c over 28 days"}
+  ],
+  "term": {
+    "term": "Relief rally",
+    "definition": "A quick jump in prices after a worry that had been dragging a market down is removed or eased. Relief rallies can be sharp, but they don't always last if the underlying problems remain.",
+    "example": "Nvidia shares surged more than 30% on Monday once the company reinstated Jensen Huang as CEO, ending the uncertainty that had helped drive last week's AI sell-off."
+  }
+}
