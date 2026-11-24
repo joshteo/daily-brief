@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-25",
+  "edition": "Wednesday 25 November 2026",
+  "updated": "6:20am NZDT",
+  "summary": [
+    "Nvidia gave back part of Monday's 31% surge, trading about 8% lower midway through Tuesday in New York as tariff reports and Fed rate-hike bets hit chip stocks.",
+    "The NZX 50 bounced 1.75% on Tuesday to snap a four-day losing streak, with Mainfreight up more than 4%, while the ASX 200 rose 1.8%.",
+    "With the official election count due Friday, a former ACT chief of staff expects separate coalition deals that could take until the New Year."
+  ],
+  "markets": {
+    "indices": [
+      {"name": "NZX 50", "value": "13,970.38", "change_pct": 1.75, "note": "Tuesday 24 Nov close · snapped a four-day losing streak; Mainfreight, Infratil, EBOS led"},
+      {"name": "S&P 500", "value": "7,237.17", "change_pct": 4.73, "note": "Monday 23 Nov US close · down about 1% midway through Tuesday"},
+      {"name": "Nasdaq", "value": "24,089.56", "change_pct": 6.51, "note": "Monday 23 Nov US close · down about 2% midway through Tuesday as chips slid"},
+      {"name": "Dow Jones", "value": "49,595.31", "change_pct": 3.01, "note": "Monday 23 Nov US close · up about 0.4% midway through Tuesday"},
+      {"name": "ASX 200", "value": "8,726.4", "change_pct": 1.82, "note": "Tuesday 24 Nov close · tech up 3%, ended an eight-session losing run"},
+      {"name": "NZD/USD", "value": "0.5446", "change_pct": -0.06, "note": "Tuesday 24 Nov · weakest since March 2009"}
+    ],
+    "stories": [
+      {
+        "headline": "Nvidia's rebound fizzles as chip stocks slide",
+        "summary": "After jumping about 31% on Monday when Jensen Huang returned as CEO, Nvidia fell between 5% and 8% in Tuesday trading in New York, and the Philadelphia semiconductor index dropped about 6%. Investors weighed governance and political questions over Huang's return, a report that the US is preparing new tariffs, and growing bets on a Fed rate hike in December.",
+        "why": "Big swings in one stock now drive the global funds inside most KiwiSaver accounts, so expect your balance to bounce around until the AI story settles.",
+        "source": {"name": "Business Recorder (Reuters)", "url": "https://www.brecorder.com/news/40450534/nasdaq-sampp-500-ease-as-nvidia-driven-ai-rally-fizzles"}
+      },
+      {
+        "headline": "ASX 200 snaps eight-day losing run as tech leads",
+        "summary": "The ASX 200 rose 1.82% to 8,726.4 on Tuesday, following Wall Street's Monday surge, with 10 of 11 sectors higher and technology up nearly 3%. Energy was the only sector to fall as Brent crude dropped about 3.5% to US$89.37 a barrel.",
+        "why": "Australian and NZ shares moved together on Tuesday, and lower oil prices are what keep easing pressure on pump prices for your work vehicle.",
+        "source": {"name": "ShareTrader", "url": "https://sharetrader.com.au/news/2026-11-24-asx-200-rebounds-after-jensen-huangs-return-to-nvidia-sparks-wall-street-rally"}
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Coalition deals could stretch to the New Year, says ex-ACT staffer",
+      "summary": "Andrew Ketels, ACT's chief of staff during the 2023 talks, says deal-making can formally begin once official results are released at 2pm on Friday, and he expects separate agreements rather than one joint deal. He suggests Christopher Luxon may take longer this time, possibly through Christmas, and that options depend on whether Opportunity is needed for a majority.",
+      "why": "The timing and shape of the next government decide when tax, student and small-business policy settings become clear.",
+      "source": {"name": "The Spinoff", "url": "https://thespinoff.co.nz/politics/23-11-2026/i-cant-see-everyone-sitting-around-the-table-and-negotiating-together"}
+    },
+    {
+      "headline": "National and ACT split over breaking up Foodstuffs",
+      "summary": "National is sticking with its plan to break up supermarket operator Foodstuffs, while ACT leader David Seymour says he would oppose the policy because of the signal it sends to investors. NZ First, Opportunity, Labour and the Greens all back some form of stronger intervention in the grocery sector.",
+      "why": "Grocery competition policy affects household food prices and is likely to be one of the trade-offs in coalition negotiations.",
+      "source": {"name": "Democracy Project", "url": "https://www.democracyproject.org.nz/p/news-briefing-24-november-2026"}
+    }
+  ],
+  "world": [
+    {
+      "headline": "Iran vows to use 'all its tools' against US naval blockade",
+      "summary": "Iran's foreign ministry spokesperson Esmaeil Baghaei called the US naval blockade, reinstated in July, an act of military aggression and said Iran would use any available tool against it. US Vice President JD Vance and Secretary of State Marco Rubio held separate meetings with Qatar's prime minister, who has been carrying messages between the two sides.",
+      "why": "Any flare-up around Hormuz can quickly push oil and fuel prices back up after weeks of falls.",
+      "source": {"name": "Just Security", "url": "https://www.justsecurity.org/165763/early-edition-november-24-2026/"}
+    },
+    {
+      "headline": "UK sanctions Myanmar generals after ICJ genocide ruling",
+      "summary": "The UK has sanctioned five senior Myanmar military leaders after the International Court of Justice ruled last week that Myanmar committed genocide against the Rohingya. Foreign Secretary Ed Miliband said the ruling must be matched by clear action.",
+      "why": "It is a landmark use of international law that is likely to come up in global business ethics and supply-chain discussions in your studies.",
+      "source": {"name": "Just Security", "url": "https://www.justsecurity.org/165763/early-edition-november-24-2026/"}
+    }
+  ],
+  "economy": {
+    "stats": [
+      {"label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec"},
+      {"label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter"},
+      {"label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high"},
+      {"label": "Petrol 91", "value": "$3.20/L", "note": "Gaspy national average, 23 Nov"}
+    ],
+    "stories": [
+      {
+        "headline": "Retail sales post biggest quarterly jump since 2021",
+        "summary": "Stats NZ says seasonally adjusted retail sales volumes rose 2.2%, or $561 million, in the September quarter. That is the largest quarterly rise since late 2021.",
+        "why": "Households spending more is a good sign for demand for services like window and gutter cleaning heading into summer.",
+        "source": {"name": "interest.co.nz", "url": "https://www.interest.co.nz/"}
+      },
+      {
+        "headline": "Hardship KiwiSaver withdrawals keep climbing",
+        "summary": "Early KiwiSaver withdrawals topped $248 million in October, with financial hardship withdrawals running ahead of first-home withdrawals. It comes as the Reserve Bank expects average mortgage rates to rise from 4.8% to 5.4% over the next year.",
+        "why": "It shows some households are still under pressure, so clear pricing and flexible payment options can help win price-sensitive customers.",
+        "source": {"name": "interest.co.nz", "url": "https://www.interest.co.nz/"}
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Google lets AI Maps book jobs with local businesses",
+      "summary": "Google's Ask Maps feature can now book appointments and call local businesses for users in categories including home repair, starting in the US. Separately, Local Services Ads are being moved into the main Google Ads platform, and advertisers are being told to download past LSA lead reports now.",
+      "why": "Turn on bookings and inquiries in your Google Business Profile and track cost per booked job, not per lead, so you're ready when these tools reach NZ.",
+      "source": {"name": "Local Dominator", "url": "https://localdominator.co/seo-news/seo-news-roundup-november-16-to-22-2026/"}
+    },
+    {
+      "headline": "Google ties Wallet spending data to AI Mode search",
+      "summary": "Google has linked its Wallet to the Personal Intelligence feature in AI Mode, so answers can draw on a user's spending habits and linked cards. Google calls it a budgeting tool and says brands won't see the data, but agencies say clear pricing and credible benefits will matter more for being recommended by AI assistants.",
+      "why": "Publishing clear prices and package details on your site and profile makes it easier for AI search to recommend Coastal Clear Windows.",
+      "source": {"name": "B&T", "url": "https://www.bandt.com.au/google-links-wallet-payment-data-to-ai-search-results/"}
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Friday and Saturday are the standout days for ladder and gutter work, mostly sunny with very low rain risk. Thursday is fine too, with only a small chance of an afternoon shower. Today (Wednesday) is overcast with possible drizzle, so stick to sheltered or quick jobs, and Sunday and Monday carry some shower risk. Figures blend WeatherNZ and the UK Met Office, which disagree on rain chances for Wed, Sun and Mon.",
+    "days": [
+      {"day": "Wed", "high": 22, "low": 16, "rain": 30},
+      {"day": "Thu", "high": 23, "low": 14, "rain": 15},
+      {"day": "Fri", "high": 22, "low": 14, "rain": 5},
+      {"day": "Sat", "high": 22, "low": 14, "rain": 5},
+      {"day": "Sun", "high": 22, "low": 16, "rain": 35},
+      {"day": "Mon", "high": 24, "low": 16, "rain": 25}
+    ]
+  },
+  "watchlist": [
+    {"name": "Nvidia", "value": "US$165", "direction": "down", "note": "Monday close; down about 8% to roughly US$151 midway through Tuesday"},
+    {"name": "Mainfreight", "value": "$72.20", "direction": "up", "note": "Up 4.3% Tuesday as the NZX rebounded"},
+    {"name": "NZD/USD", "value": "54.46c", "direction": "flat", "note": "Tuesday 24 Nov, down about 0.1%; weakest since 2009"},
+    {"name": "Petrol 91", "value": "$3.20/L", "direction": "down", "note": "Gaspy average, 23 Nov; down 29.5c over 28 days"}
+  ],
+  "term": {
+    "term": "Sector rotation",
+    "definition": "When investors move money out of one part of the market and into another, often from fast-growing but risky sectors into steadier, defensive ones. Overall indexes can look calm while individual sectors move sharply in opposite directions.",
+    "example": "On Tuesday, US chip stocks fell about 6% while health care and consumer staples rose around 2%, so the Dow was up even as the Nasdaq dropped."
+  }
+}
