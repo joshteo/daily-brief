@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-26",
+  "edition": "Thursday 26 November 2026",
+  "updated": "6:20am NZDT",
+  "summary": [
+    "Wall Street slid in Wednesday trading after hotter-than-expected US inflation and plans for new tariffs of up to 20% on China, the EU and others, with Nvidia down almost 8% by midday.",
+    "Australia's inflation jumped to 4.9% in October, and the ASX 200 slipped 0.4%, while the NZX 50 edged up about 0.6%.",
+    "Official NZ election results land at 2pm Friday, with about 399,000 special votes and several knife-edge seats still to decide how comfortable the current coalition's majority is."
+  ],
+  "markets": {
+    "indices": [
+      {"name": "NZX 50", "value": "14,047.93", "change_pct": 0.56, "note": "Wednesday 25 Nov close (Trading Economics) · Gentrack, EBOS, Meridian among gainers"},
+      {"name": "S&P 500", "value": "7,202.45", "change_pct": -0.48, "note": "Tuesday 24 Nov US close · down around 2% midway through Wednesday after hot inflation data"},
+      {"name": "Nasdaq", "value": "23,740.52", "change_pct": -1.45, "note": "Tuesday 24 Nov US close · down around 3% midway through Wednesday as chips slid again"},
+      {"name": "Dow Jones", "value": "50,028.79", "change_pct": 0.87, "note": "Tuesday 24 Nov US close · closed above 50,000; down about 1% midway through Wednesday"},
+      {"name": "ASX 200", "value": "8,692.4", "change_pct": -0.39, "note": "Wednesday 25 Nov close · materials and tech fell more than 2%, health care led"},
+      {"name": "NZD/USD", "value": "0.547", "change_pct": null, "note": "Wednesday 25 Nov, 4pm NZT · slightly firmer on the day but near 17-year lows"}
+    ],
+    "stories": [
+      {
+        "headline": "Hot US inflation and new tariff plans hit Wall Street",
+        "summary": "US core PCE inflation rose to 3.3% in the year to October, above the 3.2% forecast, and markets now price close to a certain Fed rate hike in December. Stocks also fell as the Trump administration proposed extra tariffs of up to 20% on China, the EU and a dozen other partners, likely from January, with Nvidia down nearly 8% by midday.",
+        "why": "Higher US rates and new tariffs tend to weigh on the global shares inside KiwiSaver funds and can keep the Kiwi dollar weak, which makes imported gear dearer.",
+        "source": {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      },
+      {
+        "headline": "ASX 200 slips as miners and tech give back gains",
+        "summary": "The ASX 200 fell 0.39% to 8,692.4 on Wednesday after an overnight slide in metals, with materials and technology both down more than 2% and Xero losing $1.83. Health care rose 1.2%, led by CSL, while Brent crude climbed back above US$91 a barrel.",
+        "why": "Xero is the accounting software many small NZ businesses use, and its share price is a useful gauge of how investors feel about small-business tech.",
+        "source": {"name": "ShareTrader", "url": "https://sharetrader.com.au/news/2026-11-25-asx-200-slips-as-miners-and-technology-stocks-give-back-gains"}
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Close seats and special votes in focus ahead of Friday's official count",
+      "summary": "Official results are due Friday, and about 399,000 special votes not in the preliminary count could shift list seats, with provisional results showing a 131-seat Parliament because of overhangs. Several electorates are tight, including Wairarapa, where National's Mike Butterick leads Labour's Kieran McAnulty by 139 votes.",
+      "why": "Small shifts in seats decide how much bargaining power each party has, which shapes the policies on tax, study and small business that follow.",
+      "source": {"name": "1News", "url": "https://www.1news.co.nz/2026/11/25/close-election-races-hold-key-to-govt-but-waiting-game-may-still-go-on/"}
+    },
+    {
+      "headline": "Recounts and a 4 December writ deadline frame coalition timing",
+      "summary": "Candidates can apply for recounts within three working days of Friday's results, and each recount usually takes three to five days; the Electoral Commission says a nationwide party-vote recount would need a $92,000 deposit. If no government is formed by the writ's return on 4 December, the Prime Minister will assign the portfolios of ministers not returning, such as Nicola Willis and Chris Bishop, on an acting basis.",
+      "why": "It means a final government and its first Budget priorities may not be clear until close to Christmas or later.",
+      "source": {"name": "interest.co.nz", "url": "https://www.interest.co.nz/public-policy/141196/special-votes-december-4-reshuffle-deadline-and-weeks-possible-coalition-talks"}
+    }
+  ],
+  "world": [
+    {
+      "headline": "Iran says two tankers hit mines in the Strait of Hormuz",
+      "summary": "Iran's Revolutionary Guards said two oil tankers struck naval mines and caught fire after using what they called an unauthorised route through the Strait of Hormuz. Separately, Yemen's Houthis claimed an attack on Saudi Arabia's Ras Tanura refinery, while the Saudi-led coalition said it shot down four drones there.",
+      "why": "Trouble in the Gulf shipping lanes is the fastest way for oil, and then pump prices for your work vehicle, to climb again.",
+      "source": {"name": "Just Security", "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"}
+    },
+    {
+      "headline": "US readies a fresh round of tariffs on major trade partners",
+      "summary": "The Trump administration has proposed new tariffs of up to 20% on China, the European Union and other partners, stacked on top of existing rates. The measures are expected to take effect no earlier than January.",
+      "why": "New tariffs can slow global trade and reshape supply chains, a live example for your international business and finance papers.",
+      "source": {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+    }
+  ],
+  "economy": {
+    "stats": [
+      {"label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec"},
+      {"label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter"},
+      {"label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high"},
+      {"label": "Petrol 91", "value": "$3.18/L", "note": "Gaspy national average via FuelWatch, 24 Nov"}
+    ],
+    "stories": [
+      {
+        "headline": "Business optimism jumps in NZIER survey",
+        "summary": "A net 40% of firms in NZIER's latest Quarterly Survey of Business Opinion expect the economy to improve, up from 14% the quarter before, with retailers and builders especially upbeat. The share of firms reporting higher costs eased from 54% to 47%, though their own trading was still roughly flat.",
+        "why": "More confident businesses and landlords are more likely to spend on property upkeep, including commercial window and gutter work.",
+        "source": {"name": "B2B News", "url": "https://b2bnews.co.nz/news/nzier-business-confidence-jumps-as-election-stalls/"}
+      },
+      {
+        "headline": "Auckland leads population growth as new home lending slows",
+        "summary": "Stats NZ says Auckland's population grew by 22,700, or 1.2%, in the year to June, faster than the national 0.9%. Meanwhile new mortgage lending in October was down 14.3% on a year earlier, with investor lending down 29%.",
+        "why": "More Auckland households means a bigger customer pool for Coastal Clear, even while the housing market stays quiet.",
+        "source": {"name": "interest.co.nz", "url": "https://www.interest.co.nz/economy/141222/review-things-you-need-know-you-sign-wednesday-no-retail-rate-changes-narrow"}
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "GEICO goes handmade for its big holiday ad",
+      "summary": "GEICO debuted a two-minute stop-motion holiday spot with handmade puppets of its Gecko and other characters during the Macy's Thanksgiving Day Parade broadcast, marking its 90th year. Marketing Dive links it to a wider move back to human-made, nostalgic creative as audiences tire of AI-generated ads, with Coca-Cola also stepping back from AI ads.",
+      "why": "Real before-and-after photos and short clips of your own crew at work can stand out more than polished stock or AI images.",
+      "source": {"name": "Marketing Dive", "url": "https://www.marketingdive.com/news/geico-unites-brand-icons-in-holiday-ad-mixing-human-craft-nostalgia/875728"}
+    },
+    {
+      "headline": "Shoppers double-check AI recommendations as scam emails surge",
+      "summary": "An Akeneo survey found 61% of US consumers would verify an AI-recommended brand they don't know before buying, and 65% have come across a suspected fake listing or site. Darktrace says Black Friday-themed phishing emails impersonating big brands have surged to more than 13 times October's daily rate.",
+      "why": "Keep your name, phone, prices and reviews consistent across Google, Facebook and your website so customers and AI tools can easily confirm Coastal Clear is legit.",
+      "source": {"name": "The Agile Brand Guide", "url": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-november-25-2026/"}
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Friday and Saturday are the best days for ladder and gutter work, dry with almost no rain risk. Today and Sunday may bring a bit of drizzle, so plan quick or sheltered jobs, and Monday looks mostly fine and warm. Tuesday looks wet, so avoid booking roof or gutter jobs then. Figures blend WeatherNZ and the UK Met Office.",
+    "days": [
+      {"day": "Thu", "high": 22, "low": 15, "rain": 25},
+      {"day": "Fri", "high": 22, "low": 14, "rain": 5},
+      {"day": "Sat", "high": 22, "low": 15, "rain": 5},
+      {"day": "Sun", "high": 22, "low": 15, "rain": 20},
+      {"day": "Mon", "high": 24, "low": 16, "rain": 15},
+      {"day": "Tue", "high": 22, "low": 15, "rain": 70}
+    ]
+  },
+  "watchlist": [
+    {"name": "Nvidia", "value": "US$155.38", "direction": "down", "note": "Tuesday close, down about 6%; down nearly 8% again to around US$143 midway through Wednesday"},
+    {"name": "Mainfreight", "value": "$72.09", "direction": "flat", "note": "Wednesday 25 Nov, down 0.15% (Trading Economics)"},
+    {"name": "NZD/USD", "value": "54.7c", "direction": "up", "note": "Wednesday afternoon, slightly firmer but still near 17-year lows"},
+    {"name": "Petrol 91", "value": "$3.18/L", "direction": "down", "note": "Gaspy average, 24 Nov; down 36.8c over 28 days, though Brent rose Wednesday"}
+  ],
+  "term": {
+    "term": "Core inflation",
+    "definition": "Inflation measured without the most volatile prices, usually food and energy. Central banks watch it because it shows whether price rises are spreading through the wider economy rather than being driven by a one-off spike.",
+    "example": "US core PCE inflation came in at 3.3% for the year to October, above the 3.2% expected, which is why markets now expect the Fed to raise rates in December."
+  }
+}
