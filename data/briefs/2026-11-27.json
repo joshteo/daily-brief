@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-27",
+  "edition": "Friday 27 November 2026",
+  "updated": "6:20am NZDT",
+  "summary": [
+    "Official NZ election results land at 2pm today, with almost 400,000 special votes able to shift a seat or two and decide whether the National, ACT and NZ First majority holds.",
+    "Wall Street clawed back steep losses on Wednesday to finish mixed, with the Dow up 0.3% after being down more than 1,100 points, while Nvidia fell another 3.9%; US markets were shut Thursday for Thanksgiving.",
+    "The NZX 50 slipped 0.4% as power companies and Mainfreight fell on tariff worries, while the ASX 200 rebounded 0.8% on a miners' rally."
+  ],
+  "markets": {
+    "indices": [
+      {"name": "NZX 50", "value": "13,986.60", "change_pct": -0.44, "note": "Thursday 26 Nov close · gentailers the biggest drag, Gentrack and F&P Healthcare up"},
+      {"name": "S&P 500", "value": "7,186", "change_pct": -0.25, "note": "Wednesday 25 Nov US close (sources differ by a few points) · was down as much as 3.2% intraday; US closed Thursday for Thanksgiving"},
+      {"name": "Nasdaq", "value": "23,586", "change_pct": -0.62, "note": "Wednesday 25 Nov US close · recovered from a 4.6% intraday drop as AI stocks stayed weak"},
+      {"name": "Dow Jones", "value": "50,183", "change_pct": 0.33, "note": "Wednesday 25 Nov US close · erased an intraday loss of more than 1,100 points"},
+      {"name": "ASX 200", "value": "8,763.8", "change_pct": 0.82, "note": "Thursday 26 Nov close · BHP, Rio and Fortescue up more than 3% as copper and iron ore rebounded"},
+      {"name": "NZD/USD", "value": "0.548", "change_pct": -0.11, "note": "Thursday 26 Nov (Trading Economics) · just above this week's 17-year low of 0.5432"}
+    ],
+    "stories": [
+      {
+        "headline": "Wall Street stages a late comeback before Thanksgiving",
+        "summary": "US stocks recovered most of a sharp sell-off on Wednesday, with the Dow finishing up 0.33% after being down more than 1,100 points, while the S&P 500 and Nasdaq closed only modestly lower. Sticky core inflation, renewed tariff worries and weakness in AI stocks drove the early fall, and Nvidia ended down 3.9% after S&P Global Ratings warned of a possible downgrade.",
+        "why": "Big intraday swings like this show how quickly sentiment can turn, which matters for the global share funds inside most KiwiSaver accounts.",
+        "source": {"name": "The Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"}
+      },
+      {
+        "headline": "NZX 50 slips as power companies and Mainfreight fall",
+        "summary": "The NZX 50 fell 0.4% to 13,986.6 on Thursday, with 32 stocks down and 13 up, as Meridian, Mercury and Contact led the losses. Meridian dropped 1.4% after buying an 11% stake in data-centre firm Datagrid for US$30 million, and Mainfreight fell 1.1% amid new US tariffs.",
+        "why": "Electricity retailers and data centres are a growing story in NZ, and power prices flow straight into running costs for every small business.",
+        "source": {"name": "The Bottom Line", "url": "https://www.thebottomline.co.nz/nzx-50-goes-against-the-tide-as-gentailers-mainfreight-decline/"}
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Official election results due at 2pm today",
+      "summary": "The Electoral Commission releases the final count this afternoon, including almost 400,000 special votes, which in recent elections have usually moved a seat or two. Scenarios range from National, ACT and NZ First keeping their slim majority in a 131-seat Parliament, to Opportunity becoming kingmaker or a 65-65 split if the House shrinks to 130 seats.",
+      "why": "The final seat count decides who forms the next government and therefore the direction of tax, student and small-business policy.",
+      "source": {"name": "1News", "url": "https://www.1news.co.nz/2026/11/26/its-time-four-election-scenarios-that-could-play-out-tomorrow/"}
+    },
+    {
+      "headline": "Formal coalition talks expected to start once the count is in",
+      "summary": "ACT leader David Seymour has called for a single coalition agreement between National, ACT and NZ First rather than separate deals, and warned negotiations could run until Christmas. Prime Minister Christopher Luxon has said formal talks should wait for the official result, and candidates then have three working days to apply for recounts.",
+      "why": "The length and shape of coalition talks will set when the new government's first economic decisions arrive.",
+      "source": {"name": "Chris Lynch Media", "url": "https://www.chrislynchmedia.com/news-items/david-seymour-pushes-for-one-coalition-deal-and-warns-talks-could-run-until-christmas/"}
+    }
+  ],
+  "world": [
+    {
+      "headline": "Iran widens its Hormuz shipping blacklist to tugboats",
+      "summary": "Iran's Persian Gulf Strait Authority added 26 tugboats to its non-compliance list, which now covers 266 vessels that crossed the Strait of Hormuz without Tehran's permission. It has also warned companies that service tankers they could be listed, while a US naval blockade of Iranian ports continues.",
+      "why": "Pressure on Gulf shipping is the main risk to oil and therefore to the fuel costs of running your work vehicle.",
+      "source": {"name": "Insurance Journal (Bloomberg)", "url": "https://www.insurancejournal.com/news/international/2026/11/25/893726.htm"}
+    },
+    {
+      "headline": "Russian strikes hit Kyiv and Kharkiv as energy sites go offline",
+      "summary": "Ballistic missiles struck Kyiv late on 25 November, injuring seven people, and a drone strike on a Kharkiv apartment block killed two. A thermal power plant and a gas facility halted operations, while Ukraine said it hit Russian refineries in Samara.",
+      "why": "Attacks on energy infrastructure on both sides keep global fuel and gas markets jumpy, a live case study for your economics papers.",
+      "source": {"name": "Ukraine Daily (Substack)", "url": "https://thechrissampson.substack.com/p/ukraine-daily-november-26-2026-kyiv"}
+    }
+  ],
+  "economy": {
+    "stats": [
+      {"label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec"},
+      {"label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter"},
+      {"label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high"},
+      {"label": "Petrol 91", "value": "$3.15/L", "note": "Gaspy national average via FuelWatch, 25 Nov"}
+    ],
+    "stories": [
+      {
+        "headline": "Retail sales post their biggest jump in almost five years",
+        "summary": "Stats NZ says retail sales volumes rose 2.2% in the September quarter, the strongest rise since late 2021, led by cars and parts, pharmacies and fuel. All 16 regions grew, and volumes were up 4.7% on a year earlier.",
+        "why": "Households spending again is a good sign for demand for home services like window and gutter cleaning heading into summer.",
+        "source": {"name": "Inside Retail NZ", "url": "https://insideretail.co.nz/2026/11/23/retail-sales-record-strongest-quarterly-increase-in-nearly-five-years/"}
+      },
+      {
+        "headline": "Markets lean towards an RBNZ rate rise as the Kiwi stays weak",
+        "summary": "Trading Economics reports markets have largely priced a 0.25 point OCR increase to 3.0% at the Reserve Bank's 9 December decision. The NZ dollar sits near 54.8 US cents after touching a 17-year low of 54.3 cents earlier this week.",
+        "why": "A rate rise would lift borrowing costs on business loans and vehicle finance, while a weak dollar makes imported equipment and supplies dearer.",
+        "source": {"name": "Trading Economics", "url": "https://tradingeconomics.com/new-zealand/currency"}
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Brands turn TikTok creator videos into Meta ads",
+      "summary": "Business Insider reports brands are re-running TikTok Shop creator videos as Meta ads, with one agency's clients logging 84,400 orders at a 4.3x return on ad spend over a month. TikTok Shop's US sales hit $969 million in the week to 22 November, up 57% on a year earlier.",
+      "why": "One good short video of a job can do double duty: post it on TikTok or Reels, then reuse it as a paid Facebook ad instead of making new creative.",
+      "source": {"name": "Wisevoter", "url": "https://wisevoter.com/world/us/2026/11/25/brands-reuse-tiktok-shop-videos-meta-ads"}
+    },
+    {
+      "headline": "Facebook ad costs climb into the holiday rush",
+      "summary": "Meta's average price per ad rose 14% in the third quarter, and the US Facebook cost per thousand impressions averaged $21.45 in October, about 35% higher than a year earlier. Meta has also put its planned new self-serve ad terms on hold after legal and regulatory pushback.",
+      "why": "With ad prices rising in peak season, tighter local targeting and strong creative matter more than ever to keep cost per booked quote down.",
+      "source": {"name": "AdMakeAI", "url": "https://admakeai.com/blog/meta-ads-updates-november-2026"}
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Today through Sunday are the pick for ladder and gutter work, with sunny intervals and little rain risk. Monday is warm but showers become more likely in the evening, so book outdoor jobs early. Tuesday looks like heavy rain, so avoid roof or gutter work, and Wednesday turns cooler and gusty. Figures from the UK Met Office.",
+    "days": [
+      {"day": "Fri", "high": 20, "low": 13, "rain": 5},
+      {"day": "Sat", "high": 22, "low": 14, "rain": 5},
+      {"day": "Sun", "high": 23, "low": 14, "rain": 10},
+      {"day": "Mon", "high": 24, "low": 18, "rain": 20},
+      {"day": "Tue", "high": 21, "low": 14, "rain": 50},
+      {"day": "Wed", "high": 18, "low": 15, "rain": 20}
+    ]
+  },
+  "watchlist": [
+    {"name": "Nvidia", "value": "US$149.30", "direction": "down", "note": "Wednesday close, down 3.9% as S&P Global Ratings flagged a possible downgrade; US closed Thursday"},
+    {"name": "Mainfreight", "value": "$71.94", "direction": "down", "note": "Thursday 26 Nov, down 1.1% amid new US tariffs (The Bottom Line)"},
+    {"name": "NZD/USD", "value": "54.8c", "direction": "flat", "note": "Thursday, down 0.1% but holding above this week's 17-year low"},
+    {"name": "Petrol 91", "value": "$3.15/L", "direction": "down", "note": "Gaspy average, 25 Nov; down 26.4c over 28 days"}
+  ],
+  "term": {
+    "term": "Return on ad spend (ROAS)",
+    "definition": "How much revenue you earn for every dollar spent on advertising, calculated as sales from the ads divided by the ad cost. A ROAS of 4x means $4 of sales for each $1 spent, before other costs like labour and materials.",
+    "example": "One agency says its clients earned a 4.3x return on ad spend by reusing TikTok creator videos as Meta ads, about $4.30 of sales for every $1 of ads."
+  }
+}
