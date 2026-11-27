@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-28",
+  "edition": "Saturday 28 November 2026",
+  "updated": "6:40am NZDT",
+  "summary": [
+    "Official election results leave National, ACT and NZ First on 65 of 130 seats, one short of a majority, after special votes cost National two seats and lifted the Greens to 17; Opportunity's 7 seats now hold the balance.",
+    "The NZX 50 fell 0.5% on Friday to cap its worst week since September, led by KMD Brands and a2 Milk, while the ASX 200 rose 0.8% as WiseTech jumped 15%.",
+    "ANZ-Roy Morgan consumer confidence climbed back above 100 for the first time in eight months as petrol prices fall, with 91 now averaging about $3.09 a litre."
+  ],
+  "markets": {
+    "indices": [
+      {"name": "NZX 50", "value": "13,911.36", "change_pct": -0.5, "note": "Friday 27 Nov close · down 1.4% for the week, its biggest weekly drop since September"},
+      {"name": "S&P 500", "value": "7,182.78", "change_pct": -0.25, "note": "Wednesday 25 Nov US close (latest full session) · Friday's shortened Black Friday session was trading higher early on, led by tech"},
+      {"name": "Nasdaq", "value": "23,585.80", "change_pct": -0.62, "note": "Wednesday 25 Nov US close · AI and chip stocks were rebounding in early Friday trade"},
+      {"name": "Dow Jones", "value": "50,182.95", "change_pct": 0.33, "note": "Wednesday 25 Nov US close · Friday's session closes early at 1pm New York time"},
+      {"name": "ASX 200", "value": "8,833.6", "change_pct": 0.8, "note": "Friday 27 Nov close · up 241 points for the week; tech led, WiseTech up 15%"},
+      {"name": "NZD/USD", "value": "0.5486", "change_pct": 0.09, "note": "Friday 27 Nov, 5pm Auckland (The Bottom Line) · up from 0.5481 a day earlier"}
+    ],
+    "stories": [
+      {
+        "headline": "NZX 50 posts its worst week since September",
+        "summary": "The NZX 50 fell 0.5% to 13,911.36 on Friday, leaving it down 1.4% for the week with 38 of its 50 stocks lower. KMD Brands slumped 14% over the week after ending exclusive talks with Bluestar Alliance, and a2 Milk fell for a ninth straight day, while Gentrack bucked the trend with a 12% weekly gain.",
+        "why": "A broad weekly slide on the local market flows straight into the NZ share funds inside KiwiSaver balances.",
+        "source": {"name": "The Bottom Line", "url": "https://www.thebottomline.co.nz/nzx-50-dealt-worst-week-since-september-as-kmd-tumbles-a2-extends-slide/"}
+      },
+      {
+        "headline": "WiseTech soars 15% as the ASX 200 finishes the week strongly",
+        "summary": "The ASX 200 rose 0.8% to 8,833.6 on Friday, adding 241 points across the week, with technology the best sector at up 3.6%. Logistics software firm WiseTech Global jumped $7.06 to $53.87, while only utilities and health care finished lower.",
+        "why": "Australia is NZ's closest market and a big slice of many managed funds, so a strong week there offsets some of the NZX weakness.",
+        "source": {"name": "ShareTrader", "url": "https://sharetrader.com.au/news/2026-11-27-wisetech-jumps-15-per-cent-as-asx-200-gains-2-8-per-cent-for-the-week"}
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Final count leaves the governing bloc one seat short",
+      "summary": "The Electoral Commission's official results give National 40, Labour 36, Greens 17, ACT 13, NZ First 12, Opportunity 7 and Te Pāti Māori 5 in a 130-seat Parliament. National, ACT and NZ First total 65, one short of a majority, after Labour won Wairarapa and Hamilton East on special votes.",
+      "why": "Who ends up governing sets the direction of tax, student and small-business policy for the next three years.",
+      "source": {"name": "ABC News", "url": "https://www.abc.net.au/news/2026-11-27/official-results-of-new-zealand-s-national-election-announced/107434326"}
+    },
+    {
+      "headline": "Opportunity becomes kingmaker as recount window opens",
+      "summary": "Opportunity leader Qiulae Wong has said she will talk first with National as the largest party, and options include a full coalition or a confidence-and-supply deal from the crossbench. Candidates have three working days to seek judicial recounts, with close electorates such as Wairarapa, decided by 81 votes, expected to be challenged.",
+      "why": "Talks with a new party could take longer and reshape the policy package, delaying decisions that affect businesses and students.",
+      "source": {"name": "The Spinoff", "url": "https://thespinoff.co.nz/politics/27-11-2026/live-updates-as-the-final-nz-election-results-are-revealed"}
+    }
+  ],
+  "world": [
+    {
+      "headline": "US proposes new tariffs on 14 economies",
+      "summary": "Following an investigation into excess manufacturing capacity, the US has proposed duties on 14 economies that together make up about half of global output, with China facing 20% that could double to 40%. China, Japan, Singapore, Malaysia and the EU have pushed back, and the current US-China trade truce runs to 10 January 2027.",
+      "why": "Tariff fights weigh on global trade and the NZ dollar, which affects the price of imported gear and supplies for your business.",
+      "source": {"name": "10 Things", "url": "https://www.10things.news/p/10-things-global-news-27th-november-49b"}
+    },
+    {
+      "headline": "Congo's Ebola outbreak passes 12,000 confirmed cases",
+      "summary": "Government figures put the outbreak in the Democratic Republic of Congo at 12,021 confirmed cases and 5,904 deaths, spreading to eight of 26 provinces since May. It is the rare Bundibugyo strain, which has no approved vaccine or treatment, and fighting with rebels is hampering the response.",
+      "why": "Large health emergencies can disrupt supply chains and are a real-world case study in risk for your business and economics papers.",
+      "source": {"name": "10 Things", "url": "https://www.10things.news/p/10-things-global-news-27th-november-49b"}
+    }
+  ],
+  "economy": {
+    "stats": [
+      {"label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec"},
+      {"label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter"},
+      {"label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high"},
+      {"label": "Petrol 91", "value": "$3.09/L", "note": "Gaspy national average via FuelWatch, 26 Nov"}
+    ],
+    "stories": [
+      {
+        "headline": "Consumer confidence climbs back above 100",
+        "summary": "The ANZ-Roy Morgan consumer confidence index rose 4 points to 100.2 in November, its first reading above 100 in eight months and the strongest since January. Two-year inflation expectations fell to 3.9%, the lowest since January 2025, helped by falling fuel prices.",
+        "why": "More confident households are more willing to spend on home services like window and gutter cleaning going into summer.",
+        "source": {"name": "QNC News", "url": "https://qncnews.com/2026/11/27/new-zealand-consumer-confidence-climbs-back-above-100-in-november-as-fuel-prices-fall/"}
+      },
+      {
+        "headline": "Petrol prices keep sliding from October's record",
+        "summary": "Gaspy data shows 91 averaging about $3.09 a litre nationally, down 41.5 cents over 28 days, with diesel near $2.84. Prices topped $3.50 in early October before easing.",
+        "why": "Every cent off a litre lowers the running cost of your work vehicle and lifts the margin on each job.",
+        "source": {"name": "NZ Fuel Watch", "url": "https://www.fuelwatch.nz/"}
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Meta's new ad defaults are worth a quick check",
+      "summary": "Meta has switched on 'detected offers', which can pull discounts from your website into your ads, and it is ticked by default in some accounts. From 12 November it also began on-device Pixel conversion measurement by default, so reported conversions may jump.",
+      "why": "Check your Facebook ad settings so old website promos don't appear in ads, and compare reported conversions with actual booked jobs before changing budgets.",
+      "source": {"name": "Ads Uploader", "url": "https://adsuploader.com/blog/meta-ads-updates"}
+    },
+    {
+      "headline": "Black Friday arrives as retail spending rebounds",
+      "summary": "Westpac data shows card spending on last year's Black Friday was 48% above a typical Friday, and Stats NZ says retail volumes rose 2.2% in the September quarter. Retail NZ warns shoppers remain selective, describing a two-speed recovery.",
+      "why": "A Black Friday or early-summer booking deal, such as a discount on gutter cleaning before Christmas, can catch customers while they are in a spending mood.",
+      "source": {"name": "1News", "url": "https://www.1news.co.nz/2026/11/24/retail-spending-rebounds-ahead-of-black-friday/"}
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Today and Sunday are the best days for ladder and gutter work, sunny with little rain risk (Sunday showers possible from late afternoon). Monday is warm but showers are possible from mid-morning, so start early. Tuesday brings rain and gusty winds, so skip roof and gutter jobs; Wednesday and Thursday are drier but breezy. Figures from the UK Met Office.",
+    "days": [
+      {"day": "Sat", "high": 23, "low": 15, "rain": 5},
+      {"day": "Sun", "high": 23, "low": 15, "rain": 10},
+      {"day": "Mon", "high": 24, "low": 18, "rain": 30},
+      {"day": "Tue", "high": 21, "low": 14, "rain": 30},
+      {"day": "Wed", "high": 19, "low": 14, "rain": 20},
+      {"day": "Thu", "high": 19, "low": 16, "rain": 5}
+    ]
+  },
+  "watchlist": [
+    {"name": "Nvidia", "value": "US$149.30", "direction": "down", "note": "Wednesday close, down 3.9%; was down about 1.7% early in Friday's shortened session"},
+    {"name": "Mainfreight", "value": "$71.50", "direction": "down", "note": "Friday 27 Nov close, down 0.6% (NZX); interim dividend ex-date 10 Dec"},
+    {"name": "NZD/USD", "value": "54.86c", "direction": "flat", "note": "Friday 5pm, up slightly from 54.81c but near this week's 17-year low"},
+    {"name": "Petrol 91", "value": "$3.09/L", "direction": "down", "note": "Gaspy average, 26 Nov; down 41.5c over 28 days"}
+  ],
+  "term": {
+    "term": "Consumer confidence index",
+    "definition": "A survey-based measure of how upbeat households feel about their finances and the economy. In the ANZ-Roy Morgan version, a reading above 100 means more optimists than pessimists, and it is watched as an early signal of spending.",
+    "example": "The index rose to 100.2 in November, meaning optimists now slightly outnumber pessimists, though it is still well below its long-run average of 112."
+  }
+}
