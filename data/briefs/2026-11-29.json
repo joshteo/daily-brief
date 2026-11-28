@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-29",
+  "edition": "Sunday 29 November 2026",
+  "updated": "6:45am NZDT",
+  "summary": [
+    "Wall Street closed a holiday-shortened week on a high, with the S&P 500 up 1.6% and the Nasdaq up 2.3% on Friday as AI and chip stocks bounced back.",
+    "Coalition talks are under way with National needing ACT, NZ First and Opportunity to reach a majority, but a stand-off between Winston Peters and Opportunity's Qiulae Wong has leaders warning it could take weeks or longer.",
+    "Google's ads in AI Mode have now reached New Zealand, a change worth knowing about if you run Google search ads for your business."
+  ],
+  "markets": {
+    "indices": [
+      {"name": "NZX 50", "value": "13,911.36", "change_pct": -0.5, "note": "Friday 27 Nov close · down 1.4% for the week, second weekly fall in a row"},
+      {"name": "S&P 500", "value": "7,297.49", "change_pct": 1.6, "note": "Friday 27 Nov US close (shortened Black Friday session) · up 1.7% for the week"},
+      {"name": "Nasdaq", "value": "24,129.50", "change_pct": 2.31, "note": "Friday 27 Nov US close · chip stocks rebounded strongly, up about 1% for the week"},
+      {"name": "Dow Jones", "value": "50,774.94", "change_pct": 1.18, "note": "Friday 27 Nov US close · up 592 points, best of the three for the week at +3.4%"},
+      {"name": "ASX 200", "value": "8,833.6", "change_pct": 0.8, "note": "Friday 27 Nov close · up 241 points (about 2.8%) for the week"},
+      {"name": "NZD/USD", "value": "0.5466", "change_pct": -0.07, "note": "Friday 27 Nov (Trading Economics) · briefly above 55 US cents after the final election result"}
+    ],
+    "stories": [
+      {
+        "headline": "Wall Street ends a volatile November week with solid gains",
+        "summary": "US shares rallied in Friday's shortened Black Friday session, with the S&P 500 up 1.6% to 7,297.49, the Nasdaq up 2.3% and the Dow up 592 points. Nerves over AI profitability eased, Micron rose more than 7% and the chip index jumped nearly 5%, though it still lost ground over the week.",
+        "why": "Most KiwiSaver growth funds hold a big slice of US shares, so a strong week on Wall Street lifts your balance.",
+        "source": {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"}
+      },
+      {
+        "headline": "NZX 50 slides for a second straight week",
+        "summary": "The NZX 50 fell 0.5% to 13,911.36 on Friday and lost 1.4% over the week, its biggest weekly drop since September, with 38 of 50 stocks lower. KMD Brands fell about 14% and Ryman Healthcare 9.8% for the week, while Gentrack gained 12%.",
+        "why": "The local market lagged Australia and the US this week, a useful contrast for any NZ share fund or portfolio you hold.",
+        "source": {"name": "The Bottom Line", "url": "https://www.thebottomline.co.nz/nzx-50-dealt-worst-week-since-september-as-kmd-tumbles-a2-extends-slide/"}
+      }
+    ]
+  },
+  "nz_politics": [
+    {
+      "headline": "Coalition negotiating teams named as formal talks begin",
+      "summary": "National has named Simeon Brown, Todd McClay, Erica Stanford and Mark Mitchell as its negotiators, while Opportunity's team is led by Qiulae Wong with deputy Daniel Eb. Christopher Luxon says he wants to move urgently but a deal will take as long as it takes, and ACT's David Seymour says weeks is more likely than days.",
+      "why": "The longer talks run, the longer businesses and students wait for clarity on tax, spending and regulation.",
+      "source": {"name": "1News", "url": "https://www.1news.co.nz/2026/11/28/what-can-we-expect-from-nationals-coalition-talks/"}
+    },
+    {
+      "headline": "Opportunity sets bottom lines and won't rule out another election",
+      "summary": "Opportunity says it will not join a government with Winston Peters as foreign minister, and Wong has said nothing, including a fresh election, can be ruled out. Its five bottom lines include stronger Commerce Commission powers on prices, a $30,000 cap on political donations and a 10-year health plan.",
+      "why": "A tougher Commerce Commission on prices could change costs for consumers and businesses, including what you pay for supplies.",
+      "source": {"name": "Otago Daily Times (RNZ)", "url": "https://www.odt.co.nz/news/national/ive-heard-the-message-national-ready-to-negotiate-says-luxon-e8dg5xkr"}
+    }
+  ],
+  "world": [
+    {
+      "headline": "Taiwan's ruling DPP wins back Taichung in local elections",
+      "summary": "In Saturday's local elections the opposition KMT kept Taipei, where mayor Chiang Wan-an was re-elected, while the DPP looked set to take Taichung, Tainan and Kaohsiung. The vote is seen as an early test ahead of the 2028 presidential race.",
+      "why": "Taiwan makes most of the world's advanced chips, so its politics matter for tech stocks like Nvidia and the global economy.",
+      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-opposition-party-wins-re-election-in-taipei-mayoral-race"}
+    },
+    {
+      "headline": "Iran says two tankers hit mines in the Strait of Hormuz",
+      "summary": "Iran's Revolutionary Guard navy said two tankers it called violating vessels exploded and caught fire after hitting mines, one off Oman's Khasab port, a claim not independently verified. Separately, US forces disabled a bulk carrier in the Gulf of Oman on 26 November while enforcing their blockade of Iranian ports.",
+      "why": "Trouble in the world's key oil shipping lane is the biggest risk to fuel prices and the cost of running your work vehicle.",
+      "source": {"name": "The Hans India (IANS)", "url": "https://www.thehansindia.com/news/international/iran-says-two-violating-tankers-exploded-in-hormuz-strait-1146627"}
+    }
+  ],
+  "economy": {
+    "stats": [
+      {"label": "Official Cash Rate", "value": "2.75%", "note": "Held 28 Oct · next decision 9 Dec"},
+      {"label": "Inflation (CPI)", "value": "3.7%", "note": "Year to Sept quarter"},
+      {"label": "Unemployment", "value": "5.7%", "note": "Sept quarter · 11-year high"},
+      {"label": "Petrol 91", "value": "$3.11/L", "note": "Gaspy national average via FuelWatch, 27 Nov"}
+    ],
+    "stories": [
+      {
+        "headline": "Petrol is 40 cents cheaper than a month ago",
+        "summary": "Gaspy data shows 91 averaging $3.11 a litre nationally on 27 November, down 40 cents over 28 days, with diesel at $2.86, down about 32 cents. Unleaded 95 and 98 have fallen by a similar amount, about 40 cents each.",
+        "why": "Cheaper fuel trims the cost of every job you drive to, so it's a good time to fill up the work vehicle.",
+        "source": {"name": "NZ Fuel Watch", "url": "https://www.fuelwatch.nz/"}
+      },
+      {
+        "headline": "Markets still expect an RBNZ rate rise in December",
+        "summary": "Trading Economics says markets have largely priced a 0.25 point rise in the OCR to 3.0% at the Reserve Bank's December meeting, with inflation at 3.7% and unemployment at 5.7%. It expects the election outcome to have little effect on the currency unless coalition talks turn contentious.",
+        "why": "A higher OCR would push up interest on any business loan or vehicle finance, which is worth factoring in if you're planning to borrow for gear or a vehicle.",
+        "source": {"name": "Trading Economics", "url": "https://tradingeconomics.com/new-zealand/currency"}
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "headline": "Google's ads in AI Mode are now live in New Zealand",
+      "summary": "Google has expanded ads inside its AI Mode search answers to 10 more countries, including New Zealand and Australia. Existing Search, Shopping and Performance Max campaigns qualify automatically, with no opt-out and no extra fee.",
+      "why": "If you run Google Ads for Coastal Clear Windows, your ads may now appear inside AI answers, so check search terms and results in your reports.",
+      "source": {"name": "Built Right Digital", "url": "https://builtrightdigital.com/ai-mode-ads/"}
+    },
+    {
+      "headline": "Google AI Mode starts booking home service pros in the US",
+      "summary": "Google's AI Mode can now compare local prices and reviews for a home service problem and send people straight to a booking link through partners like Angi, Thumbtack, Housecall Pro and Jobber. It is US-only for now, with plumbing as the launch example.",
+      "why": "Search is moving from 'find a cleaner' to 'book a cleaner', so strong Google reviews and easy online booking will matter more when this reaches NZ.",
+      "source": {"name": "ALM Corp", "url": "https://almcorp.com/news/google-ai-mode-home-service-bookings/"}
+    }
+  ],
+  "weather": {
+    "location": "Auckland",
+    "note": "Today and Monday bring passing showers, so outdoor work is possible but keep an eye on the sky. Tuesday is the washout with heavy rain, so skip ladder and gutter jobs. Wednesday and Thursday look dry and are the best days of the week for window and gutter work, with a few showers back on Friday morning. Temperatures and rainfall from yr.no; rain chances are rough estimates from forecast rainfall.",
+    "days": [
+      {"day": "Sun", "high": 22, "low": 15, "rain": 60},
+      {"day": "Mon", "high": 23, "low": 13, "rain": 40},
+      {"day": "Tue", "high": 19, "low": 14, "rain": 90},
+      {"day": "Wed", "high": 18, "low": 14, "rain": 5},
+      {"day": "Thu", "high": 20, "low": 15, "rain": 10},
+      {"day": "Fri", "high": 22, "low": 13, "rain": 30}
+    ]
+  },
+  "watchlist": [
+    {"name": "Nvidia", "value": "US$149.30", "direction": "flat", "note": "Wednesday 25 Nov close; Friday's close not confirmed, with reports of a small move either way in the shortened session"},
+    {"name": "Mainfreight", "value": "$71.50", "direction": "down", "note": "Friday 27 Nov close, down 0.6% (NZX); interim dividend of 85c, ex-date 10 Dec"},
+    {"name": "NZD/USD", "value": "54.66c", "direction": "flat", "note": "Friday, down 0.07% after briefly topping 55c on the election result"},
+    {"name": "Petrol 91", "value": "$3.11/L", "direction": "down", "note": "Gaspy average, 27 Nov; down 40c over 28 days"}
+  ],
+  "term": {
+    "term": "Buy the dip",
+    "definition": "An investing approach where people buy shares after a price fall, betting the drop is temporary and prices will recover. It can pay off, but only if the reasons for the fall really are short-lived.",
+    "example": "After AI and chip stocks slumped earlier in the week, investors bought the dip on Friday, helping the Nasdaq jump 2.3% and the chip index nearly 5%."
+  }
+}
